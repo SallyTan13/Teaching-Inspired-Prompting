@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东北"
+            },
+            {
+                "bullet": "B",
+                "text": "西北"
+            },
+            {
+                "bullet": "C",
+                "text": "西南"
+            }
+        ],
+        "text": "小明左手边是东北方，他的右手边是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "左右手相对，所对的方向也相对。考察辨认方向。"
+        ]
+    }
+}

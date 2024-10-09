@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2×3×5×7"
+            },
+            {
+                "bullet": "B",
+                "text": "2×3"
+            },
+            {
+                "bullet": "C",
+                "text": "3×5"
+            }
+        ],
+        "text": "将A、B分解质因数，A=2×3×5，B=7×3×2，那么AB的最大公因数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据求两个数最大公约数也就是这两个数的公有质因数的连乘积即可得到结论."
+        ]
+    }
+}

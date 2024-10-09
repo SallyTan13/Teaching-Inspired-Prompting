@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{11}{18}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{7}{18}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{9}"
+            }
+        ],
+        "text": "下面各数中，( )比 \\frac{1}{2}少 \\frac{1}{9}. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据求比一个数少几用减法解答."
+        ]
+    }
+}

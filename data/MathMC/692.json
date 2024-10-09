@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "64"
+            },
+            {
+                "bullet": "B",
+                "text": "16"
+            },
+            {
+                "bullet": "C",
+                "text": "8"
+            },
+            {
+                "bullet": "D",
+                "text": "4"
+            }
+        ],
+        "text": "一个数既是4的倍数，又是16的因数，这个数最小是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "一个数既是4的倍数，又是16的因数，这个数最小是4."
+        ]
+    }
+}

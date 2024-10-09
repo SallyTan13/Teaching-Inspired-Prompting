@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "100"
+            },
+            {
+                "bullet": "B",
+                "text": "1000"
+            },
+            {
+                "bullet": "C",
+                "text": "10000"
+            },
+            {
+                "bullet": "D",
+                "text": "100万"
+            }
+        ],
+        "text": "从一百起，一百一百地数，数到‘一百万‘要数( )次. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "一百万除以100等于一万，也就是说要数一万次. 故选C."
+        ]
+    }
+}

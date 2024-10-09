@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{A}- \\frac{1}{B}= \\frac{1}{A}× \\frac{1}{B}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{AB}= \\frac{1}{A}- \\frac{1}{B}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{A}+ \\frac{1}{B}= \\frac{1}{A}× \\frac{1}{B}"
+            }
+        ],
+        "text": "A、B是不为0的自然数，且B-A=1，下面式子错误的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先由已知条件‘A、B是不为0的自然数，且B-A=1‘，推出A和B是两个连续的自然数，且B>A;因为分数中的分母为两个连续的自然数，这样的分数可以写成分数相减的形式，用此即可判断."
+        ]
+    }
+}

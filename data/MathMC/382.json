@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1"
+            },
+            {
+                "bullet": "B",
+                "text": "13"
+            },
+            {
+                "bullet": "C",
+                "text": "1或13"
+            },
+            {
+                "bullet": "D",
+                "text": "a"
+            }
+        ],
+        "text": "已知a是13的因数，那么a是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "因数是指整数a除以整数b(b≠ 0)的商正好是整数而没有余数，我们就说b是a的因数，由于13是质数，那么它只有两个因数，1和13. 故选C."
+        ]
+    }
+}

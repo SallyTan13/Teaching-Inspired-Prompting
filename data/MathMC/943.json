@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "5+3"
+            },
+            {
+                "bullet": "B",
+                "text": "5×5"
+            },
+            {
+                "bullet": "C",
+                "text": "5×3"
+            }
+        ],
+        "text": "5个3相加的和是多少，列式是 ( )。"
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "求5个3相加的和是多少，用(5×3)进行计算。 故选:C。"
+        ]
+    }
+}

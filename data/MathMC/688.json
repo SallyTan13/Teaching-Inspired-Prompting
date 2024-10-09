@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "大于"
+            },
+            {
+                "bullet": "B",
+                "text": "小于"
+            },
+            {
+                "bullet": "C",
+                "text": "等于"
+            },
+            {
+                "bullet": "D",
+                "text": "无法比较"
+            }
+        ],
+        "text": "甲、乙两数都不为0，如果甲数÷ 2.86=乙，那么甲数一定( )乙数. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "甲=乙× 2.86."
+        ]
+    }
+}

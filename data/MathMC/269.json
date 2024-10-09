@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{5}"
+            },
+            {
+                "bullet": "B",
+                "text": "0"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{4}{7}"
+            }
+        ],
+        "text": "\\frac{2}{5}+\\frac{2}{7}-\\frac{2}{5}+\\frac{2}{7}的结果是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            ":\\frac{2}{5}+\\frac{2}{7}-\\frac{2}{5}+\\frac{2}{7}， =\\frac{2}{5}-\\frac{2}{5}+\\frac{2}{7}+\\frac{2}{7}， =\\frac{2}{7}+\\frac{2}{7}， =\\frac{4}{7}. 故选:C."
+        ]
+    }
+}

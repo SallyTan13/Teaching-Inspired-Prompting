@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "四位数减三位数，所得的差一定是三位数"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "举反例进行判断，例如1000-999."
+        ]
+    }
+}

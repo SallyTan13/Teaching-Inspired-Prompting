@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "减去4"
+            },
+            {
+                "bullet": "B",
+                "text": "加上4"
+            },
+            {
+                "bullet": "C",
+                "text": "除以4"
+            }
+        ],
+        "text": "分数 8/12 的分母减6后，要使分数的大小不变，分子应( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据比较分数大小的方法来进行解题."
+        ]
+    }
+}

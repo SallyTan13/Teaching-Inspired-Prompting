@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "大于"
+            },
+            {
+                "bullet": "B",
+                "text": "等于"
+            },
+            {
+                "bullet": "C",
+                "text": "小于"
+            },
+            {
+                "bullet": "D",
+                "text": "无法判断"
+            }
+        ],
+        "text": "A、B两个数均不为0，A的等于B的，那么A( )B. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "由题意知，A×=B×，比较两个分数的大小，根据‘积一定的情况下，一个因数小则另一个因数就大‘来判断即可."
+        ]
+    }
+}

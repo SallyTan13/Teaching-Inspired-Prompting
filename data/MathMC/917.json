@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "500×270"
+            },
+            {
+                "bullet": "B",
+                "text": "50×270"
+            },
+            {
+                "bullet": "C",
+                "text": "270×50"
+            }
+        ],
+        "text": "与27×500的计算结果不同的算式是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据积的变化规律的知识进行解答."
+        ]
+    }
+}

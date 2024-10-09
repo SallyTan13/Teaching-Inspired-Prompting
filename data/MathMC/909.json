@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "有限小数"
+            },
+            {
+                "bullet": "B",
+                "text": "无限不循环小数"
+            },
+            {
+                "bullet": "C",
+                "text": "无限循环小数"
+            },
+            {
+                "bullet": "D",
+                "text": "3.14"
+            }
+        ],
+        "text": "圆周率π 是一个( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "圆周率π 是一个无限不循环小数."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "0"
+            },
+            {
+                "bullet": "B",
+                "text": "1"
+            },
+            {
+                "bullet": "C",
+                "text": "3 7"
+            }
+        ],
+        "text": "\\frac{3}{7} 与它的倒数相乘的积是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据两个数的乘积是1，它们就互为倒数即可作出选择."
+        ]
+    }
+}

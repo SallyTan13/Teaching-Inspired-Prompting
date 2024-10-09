@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "5+4+3=12"
+            },
+            {
+                "bullet": "B",
+                "text": "54+3=57"
+            },
+            {
+                "bullet": "C",
+                "text": "5×4+3=23"
+            },
+            {
+                "bullet": "D",
+                "text": "5×3+4=19"
+            }
+        ],
+        "text": "当a=5，b=4时，ab+3的值是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "把a和b代人题目中的代数式，即可求出它的值."
+        ]
+    }
+}

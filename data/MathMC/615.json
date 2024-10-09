@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2000米"
+            },
+            {
+                "bullet": "B",
+                "text": "2000千米"
+            },
+            {
+                "bullet": "C",
+                "text": "200千米"
+            }
+        ],
+        "text": "一列动车平均每小时行驶( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据生活经验，动车平均每小时行驶200千米左右，据此解答."
+        ]
+    }
+}

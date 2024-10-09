@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "n"
+            },
+            {
+                "bullet": "B",
+                "text": "180-2n"
+            },
+            {
+                "bullet": "C",
+                "text": "(180-n)÷2"
+            },
+            {
+                "bullet": "D",
+                "text": "2n"
+            }
+        ],
+        "text": "一个等腰三角形底角 n°，它的顶角是( )度. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "等腰三角形的两个底角相等，根据三角形的内角和即可解决问题."
+        ]
+    }
+}

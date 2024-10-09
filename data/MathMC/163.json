@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{8}× \\frac{3}{5}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{3}{5}÷ \\frac{3}{8}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{3}{8}÷ \\frac{3}{5}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{3}{5}× \\frac{3}{8}"
+            }
+        ],
+        "text": "一个数的\\frac{3}{8}是\\frac{3}{5}，求这个数的算式是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "已知分量以及分量所对应的率，求单位‘1‘， 用除法，分量除以分率. 把这个数看成单位‘1‘，知道了它的\\frac{3}{8}是\\frac{3}{5}，求单位‘1‘用除法. 求这个数用除法，即\\frac{3}{5}÷ \\frac{3}{8}; 故选:B."
+        ]
+    }
+}

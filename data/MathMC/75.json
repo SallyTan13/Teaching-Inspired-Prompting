@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1"
+            },
+            {
+                "bullet": "B",
+                "text": "2"
+            },
+            {
+                "bullet": "C",
+                "text": "3"
+            }
+        ],
+        "text": "在一个梯形中，最多有( )个角是直角. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "因为梯形的上底和下底平行，所以当为直角梯形时，最多有2个角是直角."
+        ]
+    }
+}

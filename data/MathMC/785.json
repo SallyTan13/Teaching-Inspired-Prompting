@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{4}{9}是倒数"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{4}{9}和 \\frac{9}{4}都是倒数"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{9}{4}是倒数"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{4}{9}和 \\frac{9}{4}互为倒数"
+            }
+        ],
+        "text": "因为 \\frac{4}{9}× \\frac{9}{4}=1，所以( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据倒数的意义，乘积是1的两个数互为倒数.据此判断."
+        ]
+    }
+}

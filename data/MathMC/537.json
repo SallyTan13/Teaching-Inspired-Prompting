@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "50+0"
+            },
+            {
+                "bullet": "B",
+                "text": "50-0"
+            },
+            {
+                "bullet": "C",
+                "text": "50×0"
+            }
+        ],
+        "text": "结果最小的算式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先算出三个选项的算式的得数，再比较大小即可."
+        ]
+    }
+}

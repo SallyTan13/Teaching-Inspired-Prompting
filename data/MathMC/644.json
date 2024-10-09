@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a的\\frac{2}{3}是多少?"
+            },
+            {
+                "bullet": "B",
+                "text": "一个数的\\frac{2}{3}是a，求这个数"
+            },
+            {
+                "bullet": "C",
+                "text": "把a平均分成3份，求2份 是多少?"
+            }
+        ],
+        "text": "a÷\\frac{2}{3}是求( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "A，a的\\frac{2}{3}是多少，列式为:a×\\frac{2}{3}; B，一个数的\\frac{2}{3}是a，求这个数，列式为:a÷\\frac{2}{3}; C，把a平均分成3份，求2份 是多少，列式为:a÷3×2，或者a×\\frac{2}{3}. 所以:a÷\\frac{2}{3}表示:一个数的\\frac{2}{3}是a，求这个数. 故选:B."
+        ]
+    }
+}

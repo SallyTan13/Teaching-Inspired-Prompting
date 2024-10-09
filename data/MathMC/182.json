@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "梯形"
+            },
+            {
+                "bullet": "B",
+                "text": "长方形"
+            },
+            {
+                "bullet": "C",
+                "text": "平行四边形"
+            },
+            {
+                "bullet": "D",
+                "text": "正方形"
+            }
+        ],
+        "text": "两个完全一样的等腰梯形可以拼成一个( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "将两个相等的等腰梯形拼在一起，可以拼成一个平行四边形."
+        ]
+    }
+}

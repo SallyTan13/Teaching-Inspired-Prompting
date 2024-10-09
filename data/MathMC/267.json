@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "长方形"
+            },
+            {
+                "bullet": "B",
+                "text": "平行四边形"
+            },
+            {
+                "bullet": "C",
+                "text": "三角形"
+            }
+        ],
+        "text": "两个完全一样的梯形不可能拼成的图形是   . "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据梯形，平行四边形、长方形、三角形的特征判断"
+        ]
+    }
+}

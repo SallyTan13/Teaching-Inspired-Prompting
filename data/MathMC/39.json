@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "100"
+            },
+            {
+                "bullet": "B",
+                "text": "20"
+            },
+            {
+                "bullet": "C",
+                "text": "4"
+            },
+            {
+                "bullet": "D",
+                "text": "无法确定"
+            }
+        ],
+        "text": "用5倍的放大镜看一个20度的角，这个角是 ( )度。 "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "角是两条夹边形成的夹角，放大之后，夹边未改变位置，夹角不变"
+        ]
+    }
+}

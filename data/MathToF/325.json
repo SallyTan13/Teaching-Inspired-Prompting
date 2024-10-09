@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "一个三角形最多有2个锐角。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "一个三角形最多有3个锐角"
+        ]
+    }
+}

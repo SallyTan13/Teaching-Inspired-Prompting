@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "千米"
+            },
+            {
+                "bullet": "B",
+                "text": "千克"
+            },
+            {
+                "bullet": "C",
+                "text": "t"
+            },
+            {
+                "bullet": "D",
+                "text": "L"
+            }
+        ],
+        "text": "在一座桥梁旁，有一块大桥限重的交通标志牌，被空中的飞鸟遮挡的字母应该是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "在一座桥梁旁，有地块限重的交通标志牌.被空中的飞鸟遮挡的字母应该是10吨."
+        ]
+    }
+}

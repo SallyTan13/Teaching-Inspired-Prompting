@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "83"
+            },
+            {
+                "bullet": "B",
+                "text": "77"
+            },
+            {
+                "bullet": "C",
+                "text": "80"
+            }
+        ],
+        "text": "一袋方便面的外包装上标注的净含量为‘80± 3克‘，那么这袋方便面至少重( )克. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "80-3=77(克)."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东"
+            },
+            {
+                "bullet": "B",
+                "text": "南"
+            },
+            {
+                "bullet": "C",
+                "text": "西"
+            },
+            {
+                "bullet": "D",
+                "text": "北"
+            }
+        ],
+        "text": "旗杆的影子在西面，那么太阳在( )面. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "解答此题只需注意联系实际，知道光源与影子的相对的，所以太阳在东面，由此进一步解答即可."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{4}{81}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{16}{9}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{8}{81}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{16}{81}"
+            }
+        ],
+        "text": "\\frac{4}{9}×\\frac{4}{9}=( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据分数乘法的计算方法，计算出\\frac{4}{9}×\\frac{4}{9}的积，然后再进一步解答. 试题解析:\\frac{4}{9}×\\frac{4}{9}=\\frac{16}{81}. 故选:D."
+        ]
+    }
+}

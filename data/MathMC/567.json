@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac13"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac14"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac1{10}"
+            }
+        ],
+        "text": "一条4千米的公路10天修完，每天修了这条路的( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "把一条公路看成单位1，分成了10天修完，每天修十分之一. 故选C."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "45除以6，商是7，余数是5"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据:被除数=商×除数+余数，解答即可."
+        ]
+    }
+}

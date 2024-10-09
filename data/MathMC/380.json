@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "3"
+            },
+            {
+                "bullet": "B",
+                "text": "2"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            }
+        ],
+        "text": "一个数除以3的余数不可能是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据在有余数的除法中，余数总比除数小，除数是3，余数可能是1、2;由此解答即可."
+        ]
+    }
+}

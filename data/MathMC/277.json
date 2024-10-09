@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2"
+            },
+            {
+                "bullet": "B",
+                "text": "4"
+            },
+            {
+                "bullet": "C",
+                "text": "8"
+            }
+        ],
+        "text": "最小的质数乘最小的合数，积是   . "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "1不是质数也不是合数，依照定义即可得出."
+        ]
+    }
+}

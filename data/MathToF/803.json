@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "一年中有6个大月、6个小月"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "一年中有7个大月，4个小月，2月不是大月也不是小月."
+        ]
+    }
+}

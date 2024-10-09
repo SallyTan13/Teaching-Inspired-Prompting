@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东"
+            },
+            {
+                "bullet": "B",
+                "text": "南"
+            },
+            {
+                "bullet": "C",
+                "text": "西"
+            },
+            {
+                "bullet": "D",
+                "text": "北"
+            }
+        ],
+        "text": "指南针是我国的四大发明之一，不管把罗盘怎样转动，静止后，指针总是一头指向北方，另一头指向( )方. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据指南针的特性进行解答即可."
+        ]
+    }
+}

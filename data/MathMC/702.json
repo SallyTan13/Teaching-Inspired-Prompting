@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "4"
+            },
+            {
+                "bullet": "B",
+                "text": "5"
+            },
+            {
+                "bullet": "C",
+                "text": "6"
+            },
+            {
+                "bullet": "D",
+                "text": "7"
+            }
+        ],
+        "text": "☆÷○=8…5，○最小是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据题意，在☆÷○=8…5，除数一定大于余数，余数是5，那么除数一定大于5，然后再进一步解答."
+        ]
+    }
+}

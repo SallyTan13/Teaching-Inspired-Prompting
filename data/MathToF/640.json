@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "21÷3商是6，余数是3。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "21÷3=7，所以21可以整除3，没有余数。"
+        ]
+    }
+}

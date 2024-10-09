@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{4}{9}× \\frac{8}{5}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{2}{3}× \\frac{5}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{7}{3}× \\frac{4}{5}"
+            }
+        ],
+        "text": "下面算式中，积最大的是( )。"
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先算出每个算式的结果，再比较。 A选项中， \\frac{4}{9}× \\frac{8}{5}= \\frac{32}{45}。 B选项中， \\frac{2}{3}× \\frac{5}{7}= \\frac{10}{21}。 C选项中， \\frac{7}{3}× \\frac{4}{5}= \\frac{28}{15}。 因为 \\frac{28}{15}是假分数， \\frac{32}{45}和 \\frac{10}{21}都是真分数，所以 \\frac{28}{15}最大。 故应选:C。"
+        ]
+    }
+}

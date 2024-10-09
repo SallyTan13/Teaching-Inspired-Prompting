@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "求6个 \\frac{3}{4}相加的和是多少，列式为6+ \\frac{3}{4}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据乘法的意义列出乘法算式求解."
+        ]
+    }
+}

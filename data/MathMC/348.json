@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "比5小的数"
+            },
+            {
+                "bullet": "B",
+                "text": "5"
+            },
+            {
+                "bullet": "C",
+                "text": "比5大的数"
+            }
+        ],
+        "text": "如果65+□ 的和是六十多，□ 里应填什么数?( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "因为65+□ 的和是六十多，且65+5=70;则□ 里应填比5小的数. 故选A."
+        ]
+    }
+}

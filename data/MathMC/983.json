@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "0"
+            },
+            {
+                "bullet": "B",
+                "text": "1"
+            },
+            {
+                "bullet": "C",
+                "text": "2"
+            },
+            {
+                "bullet": "D",
+                "text": "4"
+            }
+        ],
+        "text": "一个数的因数只有2个，这个数最小是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "一个数的因数只有2个，则该数一定为质数."
+        ]
+    }
+}

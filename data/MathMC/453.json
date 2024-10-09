@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "15分钟"
+            },
+            {
+                "bullet": "B",
+                "text": "20分钟"
+            },
+            {
+                "bullet": "C",
+                "text": "10分钟"
+            }
+        ],
+        "text": "明明6:35开始吃饭，6:50就吃完了.明明吃饭用了( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "用吃完饭的时刻减去开始吃饭的时刻，就是明明吃饭一共用的时间."
+        ]
+    }
+}

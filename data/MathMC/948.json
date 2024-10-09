@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "奇数"
+            },
+            {
+                "bullet": "B",
+                "text": "质数"
+            },
+            {
+                "bullet": "C",
+                "text": "互质数"
+            }
+        ],
+        "text": "最简分数的分子和分母一定是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据最简分数的意义:分子和分母是互质数的分数叫做最简分数，即可知道答案."
+        ]
+    }
+}

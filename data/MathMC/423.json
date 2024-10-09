@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "千克"
+            },
+            {
+                "bullet": "B",
+                "text": "吨"
+            },
+            {
+                "bullet": "C",
+                "text": "克"
+            },
+            {
+                "bullet": "D",
+                "text": "千米"
+            }
+        ],
+        "text": "一辆大卡车载重12( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据生活经验，对质量单位和数据的大小，可知计量一辆卡车的载重量用‘吨‘做单位."
+        ]
+    }
+}

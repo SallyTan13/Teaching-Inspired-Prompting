@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "一个数除以它的倒数等于1"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据倒数的意义，乘积是1的两个数互为倒数.可以通过举例证明."
+        ]
+    }
+}

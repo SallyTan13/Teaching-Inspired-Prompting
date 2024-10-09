@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "5×O.7"
+            },
+            {
+                "bullet": "B",
+                "text": "5+0.7"
+            },
+            {
+                "bullet": "C",
+                "text": "5×1.7"
+            },
+            {
+                "bullet": "D",
+                "text": "5+1"
+            }
+        ],
+        "text": "下列算式中，计算结果小于5的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "要想知道哪个算式的结果小于5，计算出结果再比较它们的结果是否小于5，注意计算的方法."
+        ]
+    }
+}

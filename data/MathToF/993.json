@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "几成就是百分之几百"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "几成就是十分之几，即百分之几十，据此解答即可."
+        ]
+    }
+}

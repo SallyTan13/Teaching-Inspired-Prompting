@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{6}{7}÷3"
+            },
+            {
+                "bullet": "B",
+                "text": "6÷ \\frac{5}{4}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{4}{5} ÷ \\frac{4}{5}"
+            }
+        ],
+        "text": "下面算式中，商大于被除数的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "一个数(0除外)除以小于1的数，商大于这个数;一个数(0除外)除以大于1的数，商小于这个数;据此解答."
+        ]
+    }
+}

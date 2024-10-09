@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "在有余数的除法中，被除数和除数同时扩大相同的倍数，商和余数都不变。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            ""
+        ]
+    }
+}

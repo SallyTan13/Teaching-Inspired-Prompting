@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "703×6的积中间有一个0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "依据整数乘法计算方法，求出703×6积即可解答."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "100"
+            },
+            {
+                "bullet": "B",
+                "text": "10"
+            },
+            {
+                "bullet": "C",
+                "text": "11"
+            }
+        ],
+        "text": "从10里面连续减去( )个0.1，结果是0. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据‘包含‘除法的意义，求10里面包含多少个0.1即可."
+        ]
+    }
+}

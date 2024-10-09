@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\( a^{2} \\)和2a表示的意义相同，结果也相同"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据平方的定义，乘法的定义即可作出判断."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "50里面最多有7个7"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "要求50里面最多有几个7，用50除以7，求得的整数商即可."
+        ]
+    }
+}

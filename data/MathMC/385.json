@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "14"
+            },
+            {
+                "bullet": "B",
+                "text": "15"
+            },
+            {
+                "bullet": "C",
+                "text": "16"
+            },
+            {
+                "bullet": "D",
+                "text": "17"
+            }
+        ],
+        "text": "17、13、12、18四个数的平均数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据平均数的求法，用四个数的和除以除以4即得它们的平均数;据此解答即可."
+        ]
+    }
+}

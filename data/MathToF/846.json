@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "计算:1- \\frac{4}{7}+ \\frac{3}{7}=1-( \\frac{4}{7}+ \\frac{3}{7})=0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据题意，由运算顺序就可以判断出结果的正误."
+        ]
+    }
+}

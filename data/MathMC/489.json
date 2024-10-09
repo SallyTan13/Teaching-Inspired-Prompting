@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "钟摆的运动"
+            },
+            {
+                "bullet": "B",
+                "text": "大风车的转动"
+            },
+            {
+                "bullet": "C",
+                "text": "方向盘的转运"
+            },
+            {
+                "bullet": "D",
+                "text": "电梯的升降运动"
+            }
+        ],
+        "text": "下列是现象中，不属于旋转变换的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "电梯的升降运动不是围绕着固定的一点在运动的."
+        ]
+    }
+}

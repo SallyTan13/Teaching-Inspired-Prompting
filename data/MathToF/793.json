@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "49×22的得数比800大，比1000小。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "49*22>1000，所以原说法错误。"
+        ]
+    }
+}

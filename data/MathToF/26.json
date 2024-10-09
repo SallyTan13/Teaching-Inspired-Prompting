@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "34-4-6=34-(4+6)"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "运用了加法结合律，原说法正确"
+        ]
+    }
+}

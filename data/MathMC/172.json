@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "10"
+            },
+            {
+                "bullet": "B",
+                "text": "50"
+            },
+            {
+                "bullet": "C",
+                "text": "150"
+            },
+            {
+                "bullet": "D",
+                "text": "30"
+            }
+        ],
+        "text": "a=2×5×5，b=2×3×5，a和b的最大公因数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据最大公约数的意义可知:最大公约数是两个数的公有质因数的乘积，据此解答."
+        ]
+    }
+}

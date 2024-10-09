@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{3}{5}÷( \\frac{1}{9}+ \\frac{25}{3})= \\frac{3}{5}÷ \\frac{1}{9}+ \\frac{3}{5}÷ \\frac{25}{3}= \\frac{3}{5}×9+ \\frac{3}{5}× \\frac{3}{25}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "算式 \\frac{3}{5}÷( \\frac{1}{9}+ \\frac{25}{3})，应先算括号内的，再算括号外的.而原题错用了除法的运算性质，除法的性质应为(a+b)÷c=a÷c+b÷c."
+        ]
+    }
+}

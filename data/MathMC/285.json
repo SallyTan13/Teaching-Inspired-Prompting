@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a+ \\frac{1}{8}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{8}=a+b"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{8}a+b"
+            }
+        ],
+        "text": "a与b的和是 \\frac{1}{8}，用式子表示是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "因为a与b的和，即a+b，是 \\frac{1}{8}，即a+b= \\frac{1}{8}，据此解答."
+        ]
+    }
+}

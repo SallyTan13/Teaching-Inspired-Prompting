@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "第一次长"
+            },
+            {
+                "bullet": "B",
+                "text": "第二次长"
+            },
+            {
+                "bullet": "C",
+                "text": "两次同样长"
+            }
+        ],
+        "text": "一根铁丝长\\frac{8}{5}米，第一次用去\\frac{3}{5}米，第二次用去剩下的\\frac{3}{5}，( )用去的铁丝长一些. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "一:\\frac{3}{5}m. 二:( \\frac{8}{5}-\\frac{3}{5})× \\frac{3}{5} =\\frac{3}{5}(m). \\frac{3}{5}=\\frac{3}{5}. 故选C."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "16"
+            },
+            {
+                "bullet": "B",
+                "text": "21"
+            },
+            {
+                "bullet": "C",
+                "text": "12"
+            }
+        ],
+        "text": "将一根木棒锯成3段需要6分钟，照这样计算，锯成8段需要( )分钟. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "锯成3段锯了2次，锯成8段锯了7次."
+        ]
+    }
+}

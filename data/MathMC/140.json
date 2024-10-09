@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1:2"
+            },
+            {
+                "bullet": "B",
+                "text": "1:8"
+            },
+            {
+                "bullet": "C",
+                "text": "1:16"
+            },
+            {
+                "bullet": "D",
+                "text": "1:4"
+            }
+        ],
+        "text": "如果把正方形的边长按1:4的比缩小，那么新正方形和原来正方形的面积比是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "{{1}^{2}}:{{4}^{2}}=1:16."
+        ]
+    }
+}

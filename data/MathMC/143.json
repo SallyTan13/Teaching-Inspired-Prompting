@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{6}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{8}"
+            }
+        ],
+        "text": "一根木料锯成7段，锯每段所用的时间占完成这项工作总时间的(假设每锯一次所用的时间都相同) ( )。"
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "分7段，锯6次，一次用时占\\frac{1}{6}。 故选A。"
+        ]
+    }
+}

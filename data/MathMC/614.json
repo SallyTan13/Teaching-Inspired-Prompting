@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "899"
+            },
+            {
+                "bullet": "B",
+                "text": "987"
+            },
+            {
+                "bullet": "C",
+                "text": "1010"
+            }
+        ],
+        "text": "下面各数中，最接近1000的数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据899、987、1010和1000的差的大小来确定谁和1000最接近."
+        ]
+    }
+}

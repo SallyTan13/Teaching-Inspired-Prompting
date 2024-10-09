@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东面"
+            },
+            {
+                "bullet": "B",
+                "text": "西面"
+            },
+            {
+                "bullet": "C",
+                "text": "南面"
+            },
+            {
+                "bullet": "D",
+                "text": "北面"
+            }
+        ],
+        "text": "如果你的影子朝东，太阳应该在( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "依据‘光源与物体的影子在相反的方向‘可知:人的影子在东，则太阳在西方，据此解答即可."
+        ]
+    }
+}

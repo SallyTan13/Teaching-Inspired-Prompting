@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "65×28与56×82的积的末尾一定都是0。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "56×82=4592，积的末尾不是0"
+        ]
+    }
+}

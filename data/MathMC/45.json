@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "ON/C"
+            },
+            {
+                "bullet": "B",
+                "text": "CE"
+            },
+            {
+                "bullet": "C",
+                "text": "OFF"
+            }
+        ],
+        "text": "电子计算器的开关及清除键是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "计算器中，ON/C是开机键及清屏键，OFF是关机键，据此解答即可."
+        ]
+    }
+}

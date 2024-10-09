@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{5}{4}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{4}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{9}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{9}{4}"
+            }
+        ],
+        "text": "如果甲数是甲、乙两数和的\\frac{4}{9}，那么甲数是乙数的( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "可以将甲看成是4份，则甲、乙两数和为9份，乙为5份，甲数是乙数的4÷ 5=\\frac{4}{5}."
+        ]
+    }
+}

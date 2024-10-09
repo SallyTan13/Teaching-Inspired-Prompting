@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "前一个大"
+            },
+            {
+                "bullet": "B",
+                "text": "相同"
+            },
+            {
+                "bullet": "C",
+                "text": "前一个小"
+            }
+        ],
+        "text": "23×0与5×0的得数( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据0乘以任何数都得0，进行判断即可."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{5}{95}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{20}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{19}"
+            }
+        ],
+        "text": "把5克糖放入95克水中，糖占糖水的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先求出糖水的总重量，然后用糖的重量除以糖水的总重量即可得解."
+        ]
+    }
+}

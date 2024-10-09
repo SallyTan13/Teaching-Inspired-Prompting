@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "‘92‘中的‘9‘在个位上 ‘2‘在十位上。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "9在十位上，2在个位上，原说法错误"
+        ]
+    }
+}

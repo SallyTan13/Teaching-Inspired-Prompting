@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "20克"
+            },
+            {
+                "bullet": "B",
+                "text": "200克"
+            },
+            {
+                "bullet": "C",
+                "text": "2千克"
+            }
+        ],
+        "text": "一个汉堡包大约重( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据情景根据生活经验，对质量单位和数据大小的认识，可知一个汉堡包大约重200克."
+        ]
+    }
+}

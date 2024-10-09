@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "南偏东25°"
+            },
+            {
+                "bullet": "B",
+                "text": "南偏西25°"
+            },
+            {
+                "bullet": "C",
+                "text": "南偏东65°"
+            },
+            {
+                "bullet": "D",
+                "text": "南偏西65°"
+            }
+        ],
+        "text": "如果从点A看点B的方向为北偏东25°，那么从点B看点A的方向为( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "作出草图，点A看点B的方向是北偏东25°，是以A为标准，反之B看A的方向是A相对于B的方向与位置."
+        ]
+    }
+}

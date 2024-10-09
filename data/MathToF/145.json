@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "600与0相乘，结果是600."
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "任何数与0相乘都得0，所以原题目说法错误"
+        ]
+    }
+}

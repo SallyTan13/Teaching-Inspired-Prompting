@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1+\\frac{1}{a}=\\frac{2}{a}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{-a-b}{a+b}=-1"
+            },
+            {
+                "bullet": "C",
+                "text": "(1- \\frac{1}{a+1})(a+1)= \\frac{1}{a}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{1}{a-b}-\\frac{1}{b-a}=0"
+            }
+        ],
+        "text": "下列计算正确的是 ( )"
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "解:A:因为1+ \\frac{1}{a}= \\frac{a}{a}+\\frac{1}{a}= \\frac{a+1}{a}，所以A选项错误; B:因为 \\frac{-a-b}{a+b}= \\frac{-(a+b)}{a+b}=-1，所以B选项正确; C:因为(1- \\frac{1}{a+1})(a+1)=( \\frac{a+1}{a+1}-\\frac{1}{a+1})(a+1)= \\frac{a}{a+1}(a+1)=a，所以C选项错误; D因为 \\frac{1}{a-b}-\\frac{1}{b-a}=\\frac{1}{a-b}+\\frac{1}{a-b}=\\frac{2}{a-b}，所以D选项错误. 故选:B."
+        ]
+    }
+}

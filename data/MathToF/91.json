@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{5}{9}×12=12× \\frac{5}{9}"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据乘法交换律:交换两个因数的位置，积不变，直接判断即可."
+        ]
+    }
+}

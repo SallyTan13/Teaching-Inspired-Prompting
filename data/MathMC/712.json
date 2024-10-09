@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "20平方米"
+            },
+            {
+                "bullet": "B",
+                "text": "30平方米"
+            },
+            {
+                "bullet": "C",
+                "text": "24米"
+            },
+            {
+                "bullet": "D",
+                "text": "24平方米"
+            }
+        ],
+        "text": "长方形的长是10米、宽是2米，它的面积是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "长方形的面积S=ab，据此代入数据即可求解."
+        ]
+    }
+}

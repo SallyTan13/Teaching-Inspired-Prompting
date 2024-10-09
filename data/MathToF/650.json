@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "25是23和24之间的数。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "25是24后面的整数，所以不是23和24之间的数，原说法错误。"
+        ]
+    }
+}

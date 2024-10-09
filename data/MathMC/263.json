@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{11}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{10}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{9}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{10}{11}"
+            }
+        ],
+        "text": "在100克水里加入10克盐，那么盐的重量是盐水的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "先求出盐水的总重量，然后用食盐的重量除以盐水的总重量即可."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "一辆自行车a元，三辆自行车就是a+3元"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据总价=单价×数量，三辆自行车就是3a，所以原题说法错误."
+        ]
+    }
+}

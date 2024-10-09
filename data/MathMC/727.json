@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "0~4"
+            },
+            {
+                "bullet": "B",
+                "text": "5~9"
+            },
+            {
+                "bullet": "C",
+                "text": "0~5"
+            }
+        ],
+        "text": "在36□372≈37万的□里填上的合适的数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据用四舍五入法把大数改写成用万作单位的数的方法判断."
+        ]
+    }
+}

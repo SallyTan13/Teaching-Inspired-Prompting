@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "米"
+            },
+            {
+                "bullet": "B",
+                "text": "分米"
+            },
+            {
+                "bullet": "C",
+                "text": "厘米"
+            },
+            {
+                "bullet": "D",
+                "text": "毫米"
+            }
+        ],
+        "text": "一扇门的高度大约是20( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据生活经验、对长度单位大小的认识，可知一扇门的高度大约是20分米，也就是2米，据此进行选择."
+        ]
+    }
+}

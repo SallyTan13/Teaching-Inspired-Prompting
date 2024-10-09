@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "一千万"
+            },
+            {
+                "bullet": "B",
+                "text": "一亿"
+            },
+            {
+                "bullet": "C",
+                "text": "十亿"
+            }
+        ],
+        "text": "从一百万开始，一百万一百万地数，数100次是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据十进制计数法，每相邻的两个计数单位间的进率是‘十‘."
+        ]
+    }
+}

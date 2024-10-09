@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{a}{4}=\\frac{b}{7}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{b}{4}=\\frac{a}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{b}{7}=\\frac{4}{a}"
+            }
+        ],
+        "text": "如果4a=7b，那么下面正确的比例是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "因为a，b都不为零，且4a=7b， 所以a:b=7:4; 即\\frac{b}{4}=\\frac{a}{7}或\\frac{a}{b}=\\frac{7}{4}; 故选:B."
+        ]
+    }
+}

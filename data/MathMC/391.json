@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "90"
+            },
+            {
+                "bullet": "B",
+                "text": "900"
+            },
+            {
+                "bullet": "C",
+                "text": "899"
+            }
+        ],
+        "text": "最大的三位数比最小的三位数多( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据题意只要找出最大的三位数和最小的三位数，然后用最大的三位数减去最小的三位数即可."
+        ]
+    }
+}

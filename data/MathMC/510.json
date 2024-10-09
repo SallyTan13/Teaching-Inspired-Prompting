@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "减去3"
+            },
+            {
+                "bullet": "B",
+                "text": "减去2"
+            },
+            {
+                "bullet": "C",
+                "text": "减去1"
+            },
+            {
+                "bullet": "D",
+                "text": "减去23"
+            }
+        ],
+        "text": "从323中至少减去( )才能是3的倍数. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "能被3整除的数的特征:各个数位上的数字相加的和能被3整除，解答即可."
+        ]
+    }
+}

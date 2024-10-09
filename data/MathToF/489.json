@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "69后面的一个数是68"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "68是69前面的数不是后面的数69后面的数是70，不是68"
+        ]
+    }
+}

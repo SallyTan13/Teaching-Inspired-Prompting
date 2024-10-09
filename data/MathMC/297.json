@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a+2"
+            },
+            {
+                "bullet": "B",
+                "text": "2a"
+            },
+            {
+                "bullet": "C",
+                "text": "a-1"
+            },
+            {
+                "bullet": "D",
+                "text": "2a-1"
+            }
+        ],
+        "text": "如果用a表示非零自然数，那么奇数可以表示为( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "用a表示非零自然数，那么根据偶数的意义可知:偶数可以表示为2a，所以奇数可以表示为2a-1或2a+1.据此解答即可."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3.2×0.4÷3.2×0.4=1÷1=1"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据乘法的交换律、结合律进行简算即可判断."
+        ]
+    }
+}

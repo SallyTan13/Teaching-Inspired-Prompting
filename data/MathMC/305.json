@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{8}÷ 4"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{3}{8}× 4"
+            },
+            {
+                "bullet": "C",
+                "text": "4÷ \\frac{3}{8}"
+            }
+        ],
+        "text": "在下面的算式中计算结果最大的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "\\frac{3}{8}÷ 4=\\frac{3}{8}× \\frac{1}{4}\\frac{3}{8}× 4，所以4÷ \\frac{3}{8}>\\frac{3}{8}× 4>\\frac{3}{8}÷ 4. A选项:\\frac{3}{8}÷ 4=\\frac{3}{8}× \\frac{1}{4}=\\frac{3}{32}; B选项:\\frac{3}{8}× 4=\\frac{3}{2}; C选项:4÷ \\frac{3}{8}=4× \\frac{8}{3}=\\frac{32}{3}; 因为\\frac{32}{3}>\\frac{3}{2}>\\frac{3}{32}， 所以ABC中\\frac{32}{3}最大. 故选C."
+        ]
+    }
+}

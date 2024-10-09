@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "亿位和十亿位"
+            },
+            {
+                "bullet": "B",
+                "text": "百万位和十万位"
+            },
+            {
+                "bullet": "C",
+                "text": "亿位和百万位"
+            },
+            {
+                "bullet": "D",
+                "text": "亿和百万"
+            }
+        ],
+        "text": "与千万位相邻的两个数位分别是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "正确认识数位顺序表即可"
+        ]
+    }
+}

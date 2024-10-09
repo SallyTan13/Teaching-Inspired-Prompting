@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "大于"
+            },
+            {
+                "bullet": "B",
+                "text": "小于"
+            },
+            {
+                "bullet": "C",
+                "text": "等于"
+            }
+        ],
+        "text": "两个整数比较大小，位数多的数( )位数少的数. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据比较大数大小时应用数位多的数比数位低的数大，来解答本题."
+        ]
+    }
+}

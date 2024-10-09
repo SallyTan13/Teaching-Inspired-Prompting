@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{8}÷4"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{3}{8}×4"
+            },
+            {
+                "bullet": "C",
+                "text": "4÷ \\frac{3}{8}"
+            }
+        ],
+        "text": "在下面的算式中计算结果最大的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据分数乘法、除法的计算法则分别计算出各式的结果，然后进行比较即可."
+        ]
+    }
+}

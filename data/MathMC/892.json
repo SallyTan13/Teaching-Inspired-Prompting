@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2400"
+            },
+            {
+                "bullet": "B",
+                "text": "2600"
+            },
+            {
+                "bullet": "C",
+                "text": "2800"
+            }
+        ],
+        "text": "估算69×41的积大约是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "在计算69×41时，把41看作40，把69看作70，然后计算即可."
+        ]
+    }
+}

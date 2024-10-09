@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "295×42"
+            },
+            {
+                "bullet": "B",
+                "text": "321×22"
+            },
+            {
+                "bullet": "C",
+                "text": "596×19"
+            },
+            {
+                "bullet": "D",
+                "text": "187×49"
+            }
+        ],
+        "text": "估一估，下列算式中得数小于8000的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "分别估算三个选项中的算式的积，选出正确的一个即可."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "9时15分就是9时1刻"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "1刻是15分，9时15分就是9时1刻."
+        ]
+    }
+}

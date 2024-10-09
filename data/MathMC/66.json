@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "6"
+            },
+            {
+                "bullet": "B",
+                "text": "12"
+            },
+            {
+                "bullet": "C",
+                "text": "24"
+            },
+            {
+                "bullet": "D",
+                "text": "96"
+            }
+        ],
+        "text": "既是2的倍数，又是3的倍数的最小两位数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先求出2和3的最小公倍数，然后根结合题意，从2和3的公倍数中找，进而得出答案."
+        ]
+    }
+}

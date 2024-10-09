@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "19×49的结果比1000大"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据整数乘法的计算方法先求出积，再进行比较解答即可."
+        ]
+    }
+}

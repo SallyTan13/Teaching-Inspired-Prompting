@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "一"
+            },
+            {
+                "bullet": "B",
+                "text": "十"
+            },
+            {
+                "bullet": "C",
+                "text": "百"
+            }
+        ],
+        "text": "计算503×6时，5×6=30，表示30个( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "506是一个三位数，最高位百位，百位上的5表示5个百，据此解答."
+        ]
+    }
+}

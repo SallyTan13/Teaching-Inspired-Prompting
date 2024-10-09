@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "整数"
+            },
+            {
+                "bullet": "B",
+                "text": "小数"
+            },
+            {
+                "bullet": "C",
+                "text": "带分数"
+            },
+            {
+                "bullet": "D",
+                "text": "真分数"
+            }
+        ],
+        "text": "所有的( )的倒数都大于1. "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据倒数的意义:乘积是1的两个数互为倒数，依此即可得到真分数的倒数大于1."
+        ]
+    }
+}

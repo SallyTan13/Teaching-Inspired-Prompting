@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3.596精确到百分位是3.6。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "3.596精确到百分位是3.60，所以原说法错误。"
+        ]
+    }
+}

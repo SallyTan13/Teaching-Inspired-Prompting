@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{5}{6}÷ 1"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{5}{8}÷ \\frac{1}{2}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{7}{10}÷ \\frac{3}{2}"
+            }
+        ],
+        "text": "下列算式中，商小于被除数的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "除数大于1时，商小于被除数. 故选C."
+        ]
+    }
+}

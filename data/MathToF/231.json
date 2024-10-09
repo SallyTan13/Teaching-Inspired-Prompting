@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "0+0+0+0=0×4=0"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "求几个相同加数的和的简便运算，叫做乘法.依此即可求解."
+        ]
+    }
+}

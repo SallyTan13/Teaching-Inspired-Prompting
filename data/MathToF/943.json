@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "19×27的个位一定是3"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "本题根据整数乘法的运算法则分析判断即可."
+        ]
+    }
+}

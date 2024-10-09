@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "100倍"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{10}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{100}"
+            }
+        ],
+        "text": "在45的后面填上‘%‘得到一个数，这个数是原数的( )、 "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据题意可以用百分数与除法的关系来判断;据此选择即可."
+        ]
+    }
+}

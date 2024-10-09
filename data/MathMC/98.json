@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "18-6×0"
+            },
+            {
+                "bullet": "B",
+                "text": "360-0"
+            },
+            {
+                "bullet": "C",
+                "text": "(16-16)÷3"
+            }
+        ],
+        "text": "下面算式中得数是0的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据整数的四则混合运算法则进行计算即可判断."
+        ]
+    }
+}

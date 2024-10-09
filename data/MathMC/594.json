@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "359"
+            },
+            {
+                "bullet": "B",
+                "text": "386"
+            },
+            {
+                "bullet": "C",
+                "text": "656"
+            }
+        ],
+        "text": "356再加3个十是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "加3个十，在十位上增加3，所以选B 386  考察对不同数位表示意义不同的认识。"
+        ]
+    }
+}

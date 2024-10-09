@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "长方形"
+            },
+            {
+                "bullet": "B",
+                "text": "正方形"
+            },
+            {
+                "bullet": "C",
+                "text": "平行四边形"
+            },
+            {
+                "bullet": "D",
+                "text": "梯形"
+            }
+        ],
+        "text": "1个四边形只有一组对边平行时，它是(   ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据我们所学的可以知道，梯形只有一组对边平行，也就是上底和下底平行，据此即可解答."
+        ]
+    }
+}

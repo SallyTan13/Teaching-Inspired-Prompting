@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "4"
+            },
+            {
+                "bullet": "B",
+                "text": "5"
+            },
+            {
+                "bullet": "C",
+                "text": "6"
+            },
+            {
+                "bullet": "D",
+                "text": "7"
+            }
+        ],
+        "text": "从0数到6是 ( )个数。"
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据题意，从0到6有0、1、2、3、4、5、6共7个数。据此解答即可。 从0到6有0、1、2、3、4、5、6共7个数。 故选: D。"
+        ]
+    }
+}

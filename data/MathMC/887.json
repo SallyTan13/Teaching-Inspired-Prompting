@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{7}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{4}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{4}{9}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{3}{7}"
+            }
+        ],
+        "text": "小明在计算乘法时，不慎将乘数63错写成36，那么，计算结果比正确答案少( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "设另一个因数为x，原来的积为63x，现在的积是36x，那么计算结果比正确答案少(63x-36x)÷63x，计算即可."
+        ]
+    }
+}

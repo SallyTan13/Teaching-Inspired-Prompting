@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "150:1"
+            },
+            {
+                "bullet": "B",
+                "text": "1:150"
+            },
+            {
+                "bullet": "C",
+                "text": "3:2"
+            },
+            {
+                "bullet": "D",
+                "text": "2:3"
+            }
+        ],
+        "text": "小亮的身高是150 厘米，妹妹的身高是1 m，小亮和妹妹的身高比是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先将小亮和妹妹的身高统一单位后，再进行比的运算."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "8÷0"
+            },
+            {
+                "bullet": "B",
+                "text": "804÷(75-75)"
+            },
+            {
+                "bullet": "C",
+                "text": "(75-75)÷804"
+            },
+            {
+                "bullet": "D",
+                "text": "612÷(21-3×7)"
+            }
+        ],
+        "text": "下列算式中，得数是0的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据‘0‘不能做除数，因此A、B、D都无意义，因此只有C得数是0."
+        ]
+    }
+}

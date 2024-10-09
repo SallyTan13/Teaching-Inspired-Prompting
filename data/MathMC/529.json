@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "十亿位和百亿位"
+            },
+            {
+                "bullet": "B",
+                "text": "千万位和十亿位"
+            },
+            {
+                "bullet": "C",
+                "text": "百万位和千万位"
+            }
+        ],
+        "text": "与亿位相邻的两个数位分别是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "依据数位顺序表来判断与亿位相邻的两个数位分别是谁."
+        ]
+    }
+}

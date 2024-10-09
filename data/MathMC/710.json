@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{9}的倒数"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{9}的\\frac{1}{9}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{9}的18倍"
+            }
+        ],
+        "text": "下列数中，最大的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据题意，求出每个选项的值，再比较大小就可以求出答案. A选项，\\frac{1}{9}的倒数是9; B选项中，\\frac{1}{9}× \\frac{1}{9}=\\frac{1}{81}; C选项中，\\frac{1}{9}× 18=2; 9>2>\\frac{1}{81}; 所以，\\frac{1}{9}的倒数最大. 故选:A."
+        ]
+    }
+}

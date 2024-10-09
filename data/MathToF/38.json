@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "拧开水龙头是平移现象。s"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "拧开水龙头是平移现象。这句话错误。拧开水龙头是旋转现象。"
+        ]
+    }
+}

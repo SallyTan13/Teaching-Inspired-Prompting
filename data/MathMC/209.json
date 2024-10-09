@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{10}m"
+            },
+            {
+                "bullet": "B",
+                "text": "30%米"
+            },
+            {
+                "bullet": "C",
+                "text": "30%"
+            }
+        ],
+        "text": "9米是30米的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据分数除法的意义列出算式9÷30计算即可求解."
+        ]
+    }
+}

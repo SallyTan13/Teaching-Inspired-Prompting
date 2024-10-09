@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "80乘75的得数的最高位是百位。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "80*75=6000，最高位是千位，原说法错误。"
+        ]
+    }
+}

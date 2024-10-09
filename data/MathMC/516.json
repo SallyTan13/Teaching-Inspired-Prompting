@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "30"
+            },
+            {
+                "bullet": "B",
+                "text": "25"
+            },
+            {
+                "bullet": "C",
+                "text": "29"
+            }
+        ],
+        "text": "汽水买5送1瓶，30名学生要每人1瓶，共需买( )瓶汽水. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先读题想一想，再解答."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2或1"
+            },
+            {
+                "bullet": "B",
+                "text": "2"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            },
+            {
+                "bullet": "D",
+                "text": "3或2或1"
+            }
+        ],
+        "text": "一个数的除数是3，他的余数可能是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据在有余数的除法中，余数总比除数小，即余数最大为:除数-1，据此解答即可."
+        ]
+    }
+}

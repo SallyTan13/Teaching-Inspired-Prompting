@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "有限小数"
+            },
+            {
+                "bullet": "B",
+                "text": "无限循环小数"
+            },
+            {
+                "bullet": "C",
+                "text": "无限不循环小数"
+            }
+        ],
+        "text": "圆周率是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "圆周率是圆周长与直径的比值，是一个无限不循环小数. 故选C."
+        ]
+    }
+}

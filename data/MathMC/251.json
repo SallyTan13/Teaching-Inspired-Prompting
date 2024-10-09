@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "12"
+            },
+            {
+                "bullet": "B",
+                "text": "13"
+            },
+            {
+                "bullet": "C",
+                "text": "23"
+            },
+            {
+                "bullet": "D",
+                "text": "123"
+            }
+        ],
+        "text": "如果ab>0，a+b<0 ，那么下面各式:1 \\sqrt {\\frac{a}{b}}. \\sqrt {\\frac{b}{a}}=1;2 \\sqrt {\\frac{a}{b}}= \\frac{\\sqrt{a}}{\\sqrt{b}};3 \\sqrt{ab}÷ \\sqrt {\\frac{a}{b}}=-b，其中正确的是 ( )"
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "解:∵ab>0，a+b<0， ∴a<0，b<0 ∴1 \\sqrt {\\frac{a}{b}}. \\sqrt {\\frac{b}{a}}=1，正确;2 \\sqrt {\\frac{a}{b}}= \\frac{\\sqrt{a}}{\\sqrt{b}}，错误;3 \\sqrt{ab}÷ \\sqrt {\\frac{a}{b}}=-b，正确， 故选:B."
+        ]
+    }
+}

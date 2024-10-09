@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "钟摆的运动"
+            },
+            {
+                "bullet": "B",
+                "text": "大风车转动"
+            },
+            {
+                "bullet": "C",
+                "text": "电梯的升降"
+            }
+        ],
+        "text": "下列现象中，属于旋转现象的是( )。 "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "钟摆的运动不是旋转运动 大风车转动是旋转运动 电梯的升降是平移运动"
+        ]
+    }
+}

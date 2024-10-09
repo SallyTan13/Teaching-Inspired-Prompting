@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "27"
+            },
+            {
+                "bullet": "B",
+                "text": "m"
+            },
+            {
+                "bullet": "C",
+                "text": "(a-27)+m"
+            }
+        ],
+        "text": "爸爸今年a岁，明明今年(a-27)岁。m年后，它们相差( )岁 "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "由题可知，爸爸今年a岁，明明今年(a-27)岁，可以求出今年父子相差的年龄，m年后，这个年龄差不变。由此可以求解本题。"
+        ]
+    }
+}

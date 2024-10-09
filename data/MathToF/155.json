@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3.28×0.06的积中有四位小数"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据小数乘法的计算方法进行分析即可进行解答."
+        ]
+    }
+}

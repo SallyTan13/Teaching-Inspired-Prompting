@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "71里面最多有18个4"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "要求71里面最多有几个4，用71除以4所得的整数商，即可得解."
+        ]
+    }
+}

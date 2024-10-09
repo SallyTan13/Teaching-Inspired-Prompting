@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "22"
+            },
+            {
+                "bullet": "B",
+                "text": "22.4"
+            },
+            {
+                "bullet": "C",
+                "text": "23"
+            }
+        ],
+        "text": "做一套童装用布2.2米，现在有49.3米布，最多可以做   套这样的童装. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据除法的意义，求解实际问题。"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "无限小数比有限小数大。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "试题分析: 点评:这类题目都是不确定的。"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "三位小数比两位小数大。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "三位小数不一定比两位小数大，比如0.70大于0.651。"
+        ]
+    }
+}

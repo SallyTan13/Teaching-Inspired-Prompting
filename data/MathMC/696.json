@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1"
+            },
+            {
+                "bullet": "B",
+                "text": "2"
+            },
+            {
+                "bullet": "C",
+                "text": "不确定"
+            }
+        ],
+        "text": "两个乘数的末尾都有一个0，积的末尾至少有( )个0. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据题意，假设这两个数分别是20和30，然后计算出它们的乘积，再进一步解答即可."
+        ]
+    }
+}

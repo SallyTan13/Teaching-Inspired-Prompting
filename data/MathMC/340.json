@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "90°-n°"
+            },
+            {
+                "bullet": "B",
+                "text": "180°-2n°"
+            },
+            {
+                "bullet": "C",
+                "text": "(180°-n°)÷2"
+            }
+        ],
+        "text": "等腰三角形的一个底角是n°，它的顶角是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据三角形的内角和是180°以及等腰三角形的两个底角相等进行分析即可求解."
+        ]
+    }
+}

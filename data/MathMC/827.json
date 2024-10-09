@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "90{}^{\\}circ -n{}^{\\}circ"
+            },
+            {
+                "bullet": "B",
+                "text": "180{}^{\\}circ -2n{}^{\\}circ"
+            },
+            {
+                "bullet": "C",
+                "text": "(180{}^{\\}circ -n{}^{\\}circ )÷ 2"
+            }
+        ],
+        "text": "等腰三角形的一个底角是n{}^{\\}circ ，它的顶角是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "等腰三角形的两个底角相等， 三角形的内角和是180{}^{\\}circ ， 所以这个三角形的顶角是180{}^{\\}circ -2n{}^{\\}circ . 故选B."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "求8的 \\frac{2}{5}是多少"
+            },
+            {
+                "bullet": "B",
+                "text": "求8个 \\frac{2}{5}连加的和是多少"
+            },
+            {
+                "bullet": "C",
+                "text": "求8个 \\frac{2}{5}连乘的积是多少"
+            },
+            {
+                "bullet": "D",
+                "text": "以上答案均不对"
+            }
+        ],
+        "text": "\\frac{2}{5}×8的意义是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "分数乘整数的意义与整数乘法的意义相同，就是求几个相同加数和的简便运算;据此解答."
+        ]
+    }
+}

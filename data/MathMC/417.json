@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "大于1"
+            },
+            {
+                "bullet": "B",
+                "text": "小于1"
+            },
+            {
+                "bullet": "C",
+                "text": "不大于1"
+            },
+            {
+                "bullet": "D",
+                "text": "不小于1"
+            }
+        ],
+        "text": "假分数的倒数一定( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据倒数的意义:乘积是1的两个数互为倒数.分数的分子等于或等于分母的分数，叫做假分数.据此解答."
+        ]
+    }
+}

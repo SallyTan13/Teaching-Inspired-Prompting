@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "缩小到原来的\\frac{1}{10}"
+            },
+            {
+                "bullet": "B",
+                "text": "缩小到原来的\\frac{1}{100}"
+            },
+            {
+                "bullet": "C",
+                "text": "扩大到原来的100倍"
+            },
+            {
+                "bullet": "D",
+                "text": "不变"
+            }
+        ],
+        "text": "若给10的后面添上‘%‘，10就( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "给10的后面添上‘%‘，10就缩小到原来的\\frac{1}{100}; 故选:B."
+        ]
+    }
+}

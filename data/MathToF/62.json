@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3个 \\frac{1}{10}米是 \\frac{3}{10}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "依据分数乘法的意义可知:3个 \\frac{1}{10}米就是3× \\frac{1}{10}= \\frac{3}{10}米，据此即可得解."
+        ]
+    }
+}

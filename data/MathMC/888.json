@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "400平方厘米"
+            },
+            {
+                "bullet": "B",
+                "text": "25厘米"
+            },
+            {
+                "bullet": "C",
+                "text": "25平方厘米"
+            }
+        ],
+        "text": "一个正方形的周长是20厘米，它的面积是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先根据正方形的周长求出正方形的边长，再求正方形的面积."
+        ]
+    }
+}

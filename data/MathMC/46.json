@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "12"
+            },
+            {
+                "bullet": "B",
+                "text": "1"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{2}{5}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{252}{25}"
+            }
+        ],
+        "text": "计算12÷ \\frac{5}{2}+12÷ \\frac{5}{3} 的结果是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "除变乘，再提取公因数计算即可. ~~~~12÷ \\frac{5}{2}+12÷ \\frac{5}{3} =12× \\frac{2}{5}+12× \\frac{3}{5} =12× (\\frac{2}{5}+\\frac{3}{5}) =12× 1 =12."
+        ]
+    }
+}

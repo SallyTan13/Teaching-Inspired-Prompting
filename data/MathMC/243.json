@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "m只能是1"
+            },
+            {
+                "bullet": "B",
+                "text": "m只能是3"
+            },
+            {
+                "bullet": "C",
+                "text": "m只能是13"
+            },
+            {
+                "bullet": "D",
+                "text": "m是1或13"
+            }
+        ],
+        "text": "已知m是13的因数，那么 ( )。"
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "列乘法算式13×1=13，所以13的因数有1和13，所以m既可能是1也可能是13，因此本题选D。"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "400× 3"
+            },
+            {
+                "bullet": "B",
+                "text": "400× 30"
+            },
+            {
+                "bullet": "C",
+                "text": "40× 30"
+            }
+        ],
+        "text": "在计算462× 35的时候，4× 3表示( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "4在百位，3在十位，所以4× 3表示400× 30，答案选择B."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "第一次用去的长一些"
+            },
+            {
+                "bullet": "B",
+                "text": "第二次用去的长一些"
+            },
+            {
+                "bullet": "C",
+                "text": "无法确定"
+            }
+        ],
+        "text": "一根铁丝，第一次用去它的\\frac{4}{7}，第二次用去\\frac{4}{7}米，说法正确的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "1-\\frac{4}{7}=\\frac{3}{7}，\\frac{4}{7}>\\frac{3}{7}，所以第一次用去的长些. 故答案为:A."
+        ]
+    }
+}

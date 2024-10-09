@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "长方形"
+            },
+            {
+                "bullet": "B",
+                "text": "平行四边形"
+            },
+            {
+                "bullet": "C",
+                "text": "三角形"
+            }
+        ],
+        "text": "下列图形中，具有不稳定性的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据四边形的特性和三角形的特性:四边形具有不稳定性，三角形具有稳定性;据此判断即可."
+        ]
+    }
+}

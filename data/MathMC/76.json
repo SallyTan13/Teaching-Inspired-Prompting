@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{4}{9}+ \\frac{4}{9}+ \\frac{4}{9}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{4}{9}×2+ \\frac{4}{9}"
+            },
+            {
+                "bullet": "C",
+                "text": "( \\frac{1}{3}+ \\frac{4}{9})×3"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{1}{3}×4"
+            }
+        ],
+        "text": "下面算式中，( )与 \\frac{4}{9}×3的结果不相同. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据题意，先求出 \\frac{4}{9}×3的结果，然后再求出各个选项中的结果，再进行选择即可."
+        ]
+    }
+}

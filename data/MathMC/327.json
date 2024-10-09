@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a>0，b>0"
+            },
+            {
+                "bullet": "B",
+                "text": "a<0，b<0"
+            },
+            {
+                "bullet": "C",
+                "text": "a、b同号"
+            },
+            {
+                "bullet": "D",
+                "text": "a、b异号"
+            }
+        ],
+        "text": "如果ab>0，则( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "[解答]解:∵ab>0， ∴a、b同号. 故选:C. [分析]根据有理数的乘法法则判断即可."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "40元"
+            },
+            {
+                "bullet": "B",
+                "text": "4元"
+            },
+            {
+                "bullet": "C",
+                "text": "4角"
+            }
+        ],
+        "text": "一块橡皮5角，8块橡皮要( )元 "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "一块橡皮的价格为5角，8块就是5×8=40角，1元=10角，所以40角=4元. 所以答案为4元. 故选B."
+        ]
+    }
+}

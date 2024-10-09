@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "4 5 × 4 5"
+            },
+            {
+                "bullet": "B",
+                "text": "4 5 ÷4"
+            },
+            {
+                "bullet": "C",
+                "text": "1 5 × 1 5"
+            },
+            {
+                "bullet": "D",
+                "text": "4 5 × 1 5"
+            }
+        ],
+        "text": "一根铁丝长 4 5 米，用它围成一个最大的正方形，面积是( )平方米. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先求出边长再求面积"
+        ]
+    }
+}

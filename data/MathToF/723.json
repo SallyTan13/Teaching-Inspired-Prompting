@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "8.4和8.400的大小相等，但计数单位不同"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据小数的性质和小数的计数单位进行解答."
+        ]
+    }
+}

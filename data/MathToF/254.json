@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "如果5.4×a>5.4×b(a、b都不为0)那么a>b"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据一个因数不变，另一个因数越大(0除外)，积越大;由此判断即可."
+        ]
+    }
+}

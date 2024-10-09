@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "31×69的积大约是2100"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "估算31×69时要把31看作30，69看作70进行估算."
+        ]
+    }
+}

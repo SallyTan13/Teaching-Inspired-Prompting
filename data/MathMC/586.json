@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东"
+            },
+            {
+                "bullet": "B",
+                "text": "南"
+            },
+            {
+                "bullet": "C",
+                "text": "西"
+            },
+            {
+                "bullet": "D",
+                "text": "北"
+            }
+        ],
+        "text": "早晨，当你面向太阳时，你的左边是( )面. "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "早晨太阳在东边，当面向太阳时，所面对的方向是东，身后是西，左边是北，右边是南. 故选:D."
+        ]
+    }
+}

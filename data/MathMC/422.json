@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "8× \\frac{1}{8}"
+            },
+            {
+                "bullet": "B",
+                "text": "8+\\frac{1}{8}"
+            },
+            {
+                "bullet": "C",
+                "text": "8+8× \\frac{1}{8}"
+            }
+        ],
+        "text": "8千克的\\frac{1}{8}是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据题意分析可知，求一个数的几分之几用乘法， 所以8千克的\\frac{1}{8}是:8× \\frac{1}{8}. 故选A."
+        ]
+    }
+}

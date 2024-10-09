@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3除以0.3的商是3，余数是1"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据在有余数的除法中，余数总比除数小，直接判断即可."
+        ]
+    }
+}

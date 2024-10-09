@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "12×25×2=12×(25×2)运用了乘法分配律。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "运用的是乘法结合律"
+        ]
+    }
+}

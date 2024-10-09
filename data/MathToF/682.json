@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "分数单位是\\frac{1}{9}的最大真分数是\\frac{8}{9}，最小假分数是\\frac{10}{9}。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "分数单位是\\frac{1}{9}的最大真分数是\\frac{8}{9}，最小假分数是\\frac{9}{9}。故题干说法错误。"
+        ]
+    }
+}

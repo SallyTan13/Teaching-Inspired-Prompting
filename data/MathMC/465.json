@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "11"
+            },
+            {
+                "bullet": "B",
+                "text": "10"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            }
+        ],
+        "text": "由一个十和1个一组成的数是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "一个十即在十位上是1，一个1即个位上是1，故这个数是11.选A."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "23"
+            },
+            {
+                "bullet": "B",
+                "text": "22"
+            },
+            {
+                "bullet": "C",
+                "text": "21"
+            }
+        ],
+        "text": "做一套衣服要用布2.2米，现在有49.6米布，最多可做( )套衣服. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "49.6 ÷ 2.2 = 22.5，因此能完整得做22套衣服. 故选:B."
+        ]
+    }
+}

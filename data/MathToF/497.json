@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "A的 \\frac{1}{4}与B的 \\frac{1}{5}相等(A、B都不为0)，则A与B的比是5:4"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "A的 \\frac{1}{4}与B的 \\frac{1}{5}相等(A、B都不为0)，可知:A× \\frac{1}{4}=B× \\frac{1}{5}，再逆用比例的基本性质(在比例里，两个内项的积等于两个外项的积)解决问题."
+        ]
+    }
+}

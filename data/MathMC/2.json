@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "第一根长"
+            },
+            {
+                "bullet": "B",
+                "text": "第二根长"
+            },
+            {
+                "bullet": "C",
+                "text": "无法确定哪根长"
+            }
+        ],
+        "text": "两根同样长的绳子，第一根用去\\frac{1}{3}，第二根用去\\frac{1}{3}m，两根绳子剩下的长度相比( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "不知道绳子总长度，无法确定剩余绳长. 故选C."
+        ]
+    }
+}

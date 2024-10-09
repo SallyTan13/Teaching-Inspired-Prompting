@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "6"
+            },
+            {
+                "bullet": "B",
+                "text": "7"
+            },
+            {
+                "bullet": "C",
+                "text": "5"
+            },
+            {
+                "bullet": "D",
+                "text": "8"
+            }
+        ],
+        "text": "101× {3□ }<{}3700，□ 里最大可以填( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "3700÷ 101=36··· ··· 64，则□ 最大填6，选A."
+        ]
+    }
+}

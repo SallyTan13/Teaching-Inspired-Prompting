@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "800"
+            },
+            {
+                "bullet": "B",
+                "text": "7100"
+            },
+            {
+                "bullet": "C",
+                "text": "7010"
+            },
+            {
+                "bullet": "D",
+                "text": "810"
+            }
+        ],
+        "text": "一个一个地数，7009后面的一个数是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "7009读作七千零九，那么它后边的一个数是七千零一十，写作7010. 故选C."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "在0.32的末尾添上一个‘0‘，这个数就扩大到原数的10倍。()"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            ""
+        ]
+    }
+}

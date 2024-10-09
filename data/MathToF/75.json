@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "10是倍数，5是因数"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据因数和倍数的意义:如果数a能被数b整除(b≠0)，a就叫做b的倍数，b就叫做a的因数;进行解答即可."
+        ]
+    }
+}

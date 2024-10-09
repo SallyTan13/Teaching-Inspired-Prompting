@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "假分数都大于1"
+            },
+            {
+                "bullet": "B",
+                "text": "真分数都小于1"
+            },
+            {
+                "bullet": "C",
+                "text": "带分数都大于假分数"
+            }
+        ],
+        "text": "下面叙述正确的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "本题根据假分数、真分数、及带分数的定义对各个选项进行分析即能得出正确选项."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "成正比例关系"
+            },
+            {
+                "bullet": "B",
+                "text": "成反比例关系"
+            },
+            {
+                "bullet": "C",
+                "text": "不成比例关系"
+            },
+            {
+                "bullet": "D",
+                "text": "无法确定"
+            }
+        ],
+        "text": "平行四边形的面积一定，底边和它对应的高( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "{{S}_{平行四边形}}=底× 高，当面积一定，底和对应高成反比例关系. 故选B."
+        ]
+    }
+}

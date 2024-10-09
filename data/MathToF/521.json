@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "()1张10元可以换1张5元和3张1元."
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "1张10元可以换1张5元和5张1元，原说法错误."
+        ]
+    }
+}

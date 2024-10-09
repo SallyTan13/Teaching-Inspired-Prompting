@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1800"
+            },
+            {
+                "bullet": "B",
+                "text": "3800"
+            },
+            {
+                "bullet": "C",
+                "text": "2760"
+            },
+            {
+                "bullet": "D",
+                "text": "2160"
+            }
+        ],
+        "text": "大于2000，小于3000，接近2800的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "利用‘四舍五入法‘分别求出下面各数的近似数，然后与2800进行比较即可."
+        ]
+    }
+}

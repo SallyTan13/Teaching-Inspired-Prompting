@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "若3x=5y，(x，y，不为0)，那么x和y成正比例。"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "如果3x=5y，则y:x=3:5=0.6(一定)，x和y成正比例。"
+        ]
+    }
+}

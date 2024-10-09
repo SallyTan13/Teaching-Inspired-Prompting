@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "大于90度"
+            },
+            {
+                "bullet": "B",
+                "text": "小于90度"
+            },
+            {
+                "bullet": "C",
+                "text": "大于90度而小于180度"
+            }
+        ],
+        "text": "钝角是   的角. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据钝角的定义，钝角是大于90°而小于180°的角."
+        ]
+    }
+}

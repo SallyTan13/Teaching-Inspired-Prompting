@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "3/4"
+            },
+            {
+                "bullet": "B",
+                "text": "3/7"
+            },
+            {
+                "bullet": "C",
+                "text": "7/4"
+            },
+            {
+                "bullet": "D",
+                "text": "4/7"
+            }
+        ],
+        "text": "小明在计算乘法时，不小心将一个乘数24错写成42，那么计算结果比正确答案多( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "从数的性质方面考虑"
+        ]
+    }
+}

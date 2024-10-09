@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "正西方向"
+            },
+            {
+                "bullet": "B",
+                "text": "正南方向"
+            },
+            {
+                "bullet": "C",
+                "text": "东北方向"
+            }
+        ],
+        "text": "如果学校在贝贝家的西南方向，那么贝贝家在学校的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "依据方向的相对性可知:东北与西南相对，据此解答即可."
+        ]
+    }
+}

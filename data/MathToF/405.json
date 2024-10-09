@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "因为0×13=0，所以13÷0=0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "0不能做除数，0做除数无意义.据此解答."
+        ]
+    }
+}

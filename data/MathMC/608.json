@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "428万"
+            },
+            {
+                "bullet": "B",
+                "text": "428"
+            },
+            {
+                "bullet": "C",
+                "text": "429万"
+            },
+            {
+                "bullet": "D",
+                "text": "429"
+            }
+        ],
+        "text": "4285700省略万位后面的尾数约是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "省略万位以后的数，故看千位， 4285700≈ 4290000=429万. 故选C."
+        ]
+    }
+}

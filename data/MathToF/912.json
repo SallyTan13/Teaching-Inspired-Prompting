@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "16的因数只有1、2、4、8四个数"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据找一个数因数的方法，列举出16的因数，即可判断."
+        ]
+    }
+}

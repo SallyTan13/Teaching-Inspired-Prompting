@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "300500"
+            },
+            {
+                "bullet": "B",
+                "text": "420782"
+            },
+            {
+                "bullet": "C",
+                "text": "60004200"
+            }
+        ],
+        "text": "下面各数中，不需要读出零的数是   。 "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "利用大数的读法以及0的含义进行解题。"
+        ]
+    }
+}

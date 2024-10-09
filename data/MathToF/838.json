@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "如果a÷0.98=b÷1(a、b都不等于零)，那么a<b"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "因为a÷0.98=b÷1，所以a÷0.98=b，又因为a、b都不等于零且0.98a，所以b>a."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "妈妈一天工作8小时"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "一天有24小时，妈妈一天只工作8小时，其他时间休息，因此得解."
+        ]
+    }
+}

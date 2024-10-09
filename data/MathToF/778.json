@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "因为 \\frac{1}{2}= \\frac{2}{4}，所以 \\frac{1}{2}和 \\frac{2}{4}的分数单位相同"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "判定一个分数的单位看分母，分母是几，分数单位就是几分之一."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{15}{25}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{17}{51}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{3}{19}"
+            }
+        ],
+        "text": "下面各数中，( )是最简分数. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "最简分数的分子和分母是互质数，互质数的两个数只有公因数1，以此即可得出答案."
+        ]
+    }
+}

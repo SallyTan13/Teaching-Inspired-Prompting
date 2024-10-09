@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "如果x=8÷y，那么x与y成正比例"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "依据反比例的意义可知:若两个相关联量的乘积一定，则这两个两成反比例，据此解答即可."
+        ]
+    }
+}

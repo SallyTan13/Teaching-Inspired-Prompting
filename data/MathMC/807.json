@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{5}{6}+\\frac{3}{4}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{5}{6}× \\frac{4}{3}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{6}÷ \\frac{3}{4}"
+            }
+        ],
+        "text": "求\\frac{5}{6}的\\frac{3}{4}是多少?列式为( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "求\\frac{5}{6}的\\frac{3}{4}是多少，也就是把\\frac{5}{6}当做单位1， 列式为:\\frac{5}{6}× \\frac{3}{4}，故B正确. 故选B."
+        ]
+    }
+}

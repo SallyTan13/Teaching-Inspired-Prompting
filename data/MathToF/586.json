@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "如果2a=7b(a不为0)，那么a:b=2:7"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据比例的基本性质，把等式2a=7b改写成比例的形式，a:b=7:2，进而判断."
+        ]
+    }
+}

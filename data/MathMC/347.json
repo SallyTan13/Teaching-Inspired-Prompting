@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1"
+            },
+            {
+                "bullet": "B",
+                "text": "2"
+            },
+            {
+                "bullet": "C",
+                "text": "3"
+            },
+            {
+                "bullet": "D",
+                "text": "无法确定"
+            }
+        ],
+        "text": "两个因数(均不为0)相乘，其中一个因数的末尾有2个0，积的末尾至少有( )个0. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据因数末尾有0的乘法规则解题"
+        ]
+    }
+}

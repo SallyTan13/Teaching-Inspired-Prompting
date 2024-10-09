@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2"
+            },
+            {
+                "bullet": "B",
+                "text": "5"
+            },
+            {
+                "bullet": "C",
+                "text": "6"
+            },
+            {
+                "bullet": "D",
+                "text": "无数"
+            }
+        ],
+        "text": "分母是6的真分数有( )个. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "分子比分母小的分数叫作真分数，故只有\\frac{1}{6}，\\frac{2}{6}，\\frac{3}{6}，\\frac{4}{6}，\\frac{5}{6}，五个."
+        ]
+    }
+}

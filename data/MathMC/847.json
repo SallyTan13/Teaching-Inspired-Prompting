@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "20%"
+            },
+            {
+                "bullet": "B",
+                "text": "25%"
+            },
+            {
+                "bullet": "C",
+                "text": "75%"
+            }
+        ],
+        "text": "盐和水的质量比是1:4，盐占盐水的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "先求出盐和盐水的质量比，再计算盐占盐水的百分之几."
+        ]
+    }
+}

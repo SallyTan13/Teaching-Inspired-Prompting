@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "一定都是质数"
+            },
+            {
+                "bullet": "B",
+                "text": "一定都是合数"
+            },
+            {
+                "bullet": "C",
+                "text": "公因数只有1"
+            }
+        ],
+        "text": "互质的两个数( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据互质数的意义和判断方法，公因数只有1的两个数，叫做互质数。从而得出答案是C."
+        ]
+    }
+}

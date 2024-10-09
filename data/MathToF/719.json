@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "75的20倍是150."
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "75的20倍是75*20=1500，所以这句话是错的。"
+        ]
+    }
+}

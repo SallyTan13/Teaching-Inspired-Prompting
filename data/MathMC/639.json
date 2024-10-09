@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "4"
+            },
+            {
+                "bullet": "B",
+                "text": "6"
+            },
+            {
+                "bullet": "C",
+                "text": "8"
+            }
+        ],
+        "text": "把一块正方体橡皮泥切三刀，最多可以切成( )块. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "纵切两刀，要交叉切，可以切成4块，横切一刀，把这4块都又一分为二，可切成8块."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "-\\frac{7}{3}"
+            },
+            {
+                "bullet": "B",
+                "text": "0"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{5}{7}"
+            }
+        ],
+        "text": "计算 -1\\frac{1}{7}×  ( {\\frac{7}{8}+1\\frac{3}{4}-\\frac{7}{12}} ) 的结果是( )"
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "解:原式=- \\frac{8}{7}× \\frac{7}{8}-\\frac{8}{7}× \\frac{7}{4}-\\frac{8}{7}×  ( {-\\frac{7}{12}} )=-1-2+ \\frac{2}{3}=- \\frac{7}{3}. 故选:A."
+        ]
+    }
+}

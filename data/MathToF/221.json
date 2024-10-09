@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "两个小数相加的和一定是小数"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据题意，假设这两个小数是2.6和1.4，然后再进一步解答即可."
+        ]
+    }
+}

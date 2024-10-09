@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "人的影子在西方，太阳应在西方"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据方向的相对性，人的影子在西，则太阳在东方，据此解答即可."
+        ]
+    }
+}

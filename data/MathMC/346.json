@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2或1"
+            },
+            {
+                "bullet": "B",
+                "text": "2或3"
+            },
+            {
+                "bullet": "C",
+                "text": "1或3"
+            }
+        ],
+        "text": "一个数除以3的余数可能是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "在整数的除法中，只有能整除与不能整除两种情况，当不能整除时，就产生余数.余数小于除数."
+        ]
+    }
+}

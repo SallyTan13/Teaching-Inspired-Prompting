@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2000"
+            },
+            {
+                "bullet": "B",
+                "text": "4000"
+            },
+            {
+                "bullet": "C",
+                "text": "6000"
+            }
+        ],
+        "text": "51×79的积大约是几千( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据估算的计算方法，把51看作50，79看作80进行计算即可."
+        ]
+    }
+}

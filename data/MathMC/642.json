@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "3"
+            },
+            {
+                "bullet": "B",
+                "text": "4"
+            },
+            {
+                "bullet": "C",
+                "text": "5"
+            },
+            {
+                "bullet": "D",
+                "text": "6"
+            }
+        ],
+        "text": "在12、3、19、10、16、7、0、15、20这些数中，比10大的数有 个"
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "比10大的数有:12、19、16、15、20共有5个数，故选:C."
+        ]
+    }
+}

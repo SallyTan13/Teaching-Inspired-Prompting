@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "1米的 \\frac{3}{5}就等于3米的 \\frac{1}{5}"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据分数的意义可知，1米的 \\frac{3}{5}是1× \\frac{3}{5}= \\frac{3}{5}米，3米的 \\frac{1}{5}是3× \\frac{1}{5}= \\frac{3}{5}米，即1米的 \\frac{3}{5}就等于3米的 \\frac{1}{5}."
+        ]
+    }
+}

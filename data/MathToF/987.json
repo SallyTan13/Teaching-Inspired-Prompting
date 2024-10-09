@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "因为 \\frac{x}{3}= \\frac{y}{4}，所以x和y成正比例"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "依据正比例的意义，即若两个相关联量的比值一定，则这两个量成正比例，据此即可进行判断."
+        ]
+    }
+}

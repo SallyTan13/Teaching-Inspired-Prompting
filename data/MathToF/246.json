@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "9÷ \\frac{2}{3}=9× \\frac{2}{3}=6"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据分数除法除法的计算法则，求出结果即可判断."
+        ]
+    }
+}

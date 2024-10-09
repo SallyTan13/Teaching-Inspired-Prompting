@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "+3"
+            },
+            {
+                "bullet": "B",
+                "text": "+10"
+            },
+            {
+                "bullet": "C",
+                "text": "-100"
+            }
+        ],
+        "text": "下列各数中，小于0的数是   . "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "比0小的数为负数"
+        ]
+    }
+}

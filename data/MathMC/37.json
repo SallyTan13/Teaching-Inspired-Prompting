@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "苹果的个数是梨的2倍"
+            },
+            {
+                "bullet": "B",
+                "text": "梨的个数是苹果的2倍"
+            },
+            {
+                "bullet": "C",
+                "text": "梨的个数是苹果的4倍"
+            }
+        ],
+        "text": "有8个梨，4个苹果.下面说法正确的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "8÷ 4=2，所以梨是苹果的2倍. 故选B."
+        ]
+    }
+}

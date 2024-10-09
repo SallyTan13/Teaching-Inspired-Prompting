@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "2.7+1.3-2.7+1.3=0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "按照从左向右的顺序进行计算，计算出结果，与原题比较即可."
+        ]
+    }
+}

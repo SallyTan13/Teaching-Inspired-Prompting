@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{4}× \\frac{5}{7}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{3}{5}× \\frac{4}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{2}{5}× \\frac{5}{7}"
+            }
+        ],
+        "text": "与 \\frac{4}{5}× \\frac{3}{7}结果相同的算式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先计算出 \\frac{4}{5}× \\frac{3}{7}的结果，再求解出A、B、C各算式的结果，对比得解."
+        ]
+    }
+}

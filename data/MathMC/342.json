@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "8000"
+            },
+            {
+                "bullet": "B",
+                "text": "6000"
+            },
+            {
+                "bullet": "C",
+                "text": "5000"
+            }
+        ],
+        "text": "398× 21的积大约是 ( )。"
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "估算为400× 20=8000。"
+        ]
+    }
+}

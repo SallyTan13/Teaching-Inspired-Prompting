@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "34+0"
+            },
+            {
+                "bullet": "B",
+                "text": "34-0"
+            },
+            {
+                "bullet": "C",
+                "text": "0×34"
+            }
+        ],
+        "text": "34×0的结果和（ ）相等. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "考虑乘法交换律以及0乘任何数都得0."
+        ]
+    }
+}

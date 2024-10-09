@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2千克"
+            },
+            {
+                "bullet": "B",
+                "text": "2000千克"
+            },
+            {
+                "bullet": "C",
+                "text": "200克"
+            }
+        ],
+        "text": "一瓶醋重500克，4瓶醋重( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "一瓶醋重500克，4瓶的重量为4×500克=2000克=2千克  A、B选项是容易混淆的选项"
+        ]
+    }
+}

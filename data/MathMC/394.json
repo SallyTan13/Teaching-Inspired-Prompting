@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2"
+            },
+            {
+                "bullet": "B",
+                "text": "8"
+            },
+            {
+                "bullet": "C",
+                "text": "4"
+            }
+        ],
+        "text": "最小的质数与最小的合数相乘的积是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据质数的定义最小的质数是2，最小的合数是4，然后进行乘积"
+        ]
+    }
+}

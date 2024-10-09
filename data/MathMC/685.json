@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "西"
+            },
+            {
+                "bullet": "B",
+                "text": "南"
+            },
+            {
+                "bullet": "C",
+                "text": "东南"
+            },
+            {
+                "bullet": "D",
+                "text": "西北"
+            }
+        ],
+        "text": "指南针是我国古代四大发明之一，它的指针一端总是指向( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "指南针是我国古代的四大发明之一，它的一端指向南，另一端指向北，据此解答."
+        ]
+    }
+}

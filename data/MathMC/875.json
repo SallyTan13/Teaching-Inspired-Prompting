@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "9个6相乘"
+            },
+            {
+                "bullet": "B",
+                "text": "9和6相加"
+            },
+            {
+                "bullet": "C",
+                "text": "6个9相加"
+            }
+        ],
+        "text": "9×6表示( )。 "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "9×6表示6个9相加。故选:C  乘法表示的意义就是求几个相同加数的和。"
+        ]
+    }
+}

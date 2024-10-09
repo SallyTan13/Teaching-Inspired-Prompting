@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "36+46"
+            },
+            {
+                "bullet": "B",
+                "text": "87-12"
+            },
+            {
+                "bullet": "C",
+                "text": "90-21"
+            },
+            {
+                "bullet": "D",
+                "text": "58+14"
+            }
+        ],
+        "text": "估一估，下面算式结果小于70的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "按照估算的方法，分析四个选项，找出结果比70小的即可."
+        ]
+    }
+}

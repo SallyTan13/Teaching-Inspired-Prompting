@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "65×23与42×35的积，末尾都是0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "直接求出两个因数的末位数字的积，依此即可求解."
+        ]
+    }
+}

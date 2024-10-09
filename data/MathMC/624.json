@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "50"
+            },
+            {
+                "bullet": "B",
+                "text": "40"
+            },
+            {
+                "bullet": "C",
+                "text": "49"
+            },
+            {
+                "bullet": "D",
+                "text": "无选项"
+            }
+        ],
+        "text": "( )×7<350，( )里最大能填( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "由整数大小的比较方法可知:50×7=350，所以括号里的数应小于50，据此解答即可."
+        ]
+    }
+}

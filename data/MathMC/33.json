@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "23 ÷8"
+            },
+            {
+                "bullet": "B",
+                "text": "8÷ 23"
+            },
+            {
+                "bullet": "C",
+                "text": "8× 23"
+            }
+        ],
+        "text": "在下面算式中，计算结果最大的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据分数乘法、除法的计算法则，分别计算出各算式的结果，然后进行比较即可得出答案."
+        ]
+    }
+}

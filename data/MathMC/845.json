@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{C}{2}+ \\frac{C}{π}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{C}{2}+ \\frac{2C}{π}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{C}{2}+ \\frac{C}{2π}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{C}{2}"
+            }
+        ],
+        "text": "已知一个圆的周长是C，那么半圆的周长是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据圆的周长公式C=πd，求出圆的直径，d=C÷π，再根据半圆的周长等于圆周长的一半+直径，即可得出答案."
+        ]
+    }
+}

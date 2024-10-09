@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "8060"
+            },
+            {
+                "bullet": "B",
+                "text": "8600"
+            },
+            {
+                "bullet": "C",
+                "text": "8006"
+            }
+        ],
+        "text": "由8个千和6个十组成的数是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "因为由题干可知，该数千位是8，十位是6，其余位为0，所以该数为8060. 故选A."
+        ]
+    }
+}

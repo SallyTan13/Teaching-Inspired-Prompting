@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "578-19"
+            },
+            {
+                "bullet": "B",
+                "text": "19×27"
+            },
+            {
+                "bullet": "C",
+                "text": "27+32"
+            }
+        ],
+        "text": "计算578-19×27+32时，应先算 ( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "在计算578-19×27+32时，应先算乘法，再算减法与加法."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{2}{5}×9+ \\frac{2}{5}可以运用乘法分配律进行简便计算"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "\\frac{2}{5}×9+ \\frac{2}{5}可以化成 \\frac{2}{5}×9+ \\frac{2}{5}×1，再运用乘法分配律进行简便计算."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "平移"
+            },
+            {
+                "bullet": "B",
+                "text": "旋转"
+            },
+            {
+                "bullet": "C",
+                "text": "既不是平移，也不是旋转"
+            }
+        ],
+        "text": "风扇叶片的运动是( )现象. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据题意结合对旋转现象的认识及相关知识进行解答问题即可."
+        ]
+    }
+}

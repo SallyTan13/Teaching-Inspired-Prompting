@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a+2"
+            },
+            {
+                "bullet": "B",
+                "text": "2a"
+            },
+            {
+                "bullet": "C",
+                "text": "2a+1"
+            }
+        ],
+        "text": "如果用a表示自然数，那么偶数可以表示为( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "偶数可以表示为2a."
+        ]
+    }
+}

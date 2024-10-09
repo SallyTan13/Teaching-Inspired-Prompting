@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "百万和万"
+            },
+            {
+                "bullet": "B",
+                "text": "百万位和万位"
+            },
+            {
+                "bullet": "C",
+                "text": "百万位和十万位"
+            }
+        ],
+        "text": "和十万位相邻的两个数位分别是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据整数的数位顺序可知，百万位和万位与十万位相邻，据此判断."
+        ]
+    }
+}

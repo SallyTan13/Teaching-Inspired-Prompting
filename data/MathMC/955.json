@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{4}{5}是倒数"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{5}{4}是倒数"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{4}{5}与 \\frac{5}{4}互为倒数"
+            }
+        ],
+        "text": "因为 \\frac{4}{5}× \\frac{5}{4}=1，所以( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据倒数的意义，乘积是1的两个数互为倒数.据此解答."
+        ]
+    }
+}

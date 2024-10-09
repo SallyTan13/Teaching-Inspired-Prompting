@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "等于"
+            },
+            {
+                "bullet": "B",
+                "text": "小于"
+            },
+            {
+                "bullet": "C",
+                "text": "大于"
+            },
+            {
+                "bullet": "D",
+                "text": "不能确定"
+            }
+        ],
+        "text": "甲数的10%等于乙数的20%(甲、乙两数都大于0)，则甲数( )乙数. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "由题意可设，甲数为a，乙数为b ，可列式为:10%a=20%b，再进行化简比较即可."
+        ]
+    }
+}

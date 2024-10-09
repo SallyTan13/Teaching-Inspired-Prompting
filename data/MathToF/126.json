@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "3米的\\frac{1}{4}和1米的\\frac{3}{4}相等。"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "3× \\frac{1}{4}= \\frac{3}{4}(米)1× \\frac{3}{4}= \\frac{3}{4}(米) \\frac{3}{4}= \\frac{3}{4} 所以，3米的 \\frac{1}{4}等于1米的 \\frac{3}{4}。"
+        ]
+    }
+}

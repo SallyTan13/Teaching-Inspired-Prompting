@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "x=24是方程3x+8=80的解。"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "把x=24代入方程，看方程两边是否相等即可，根据此判断即可。"
+        ]
+    }
+}

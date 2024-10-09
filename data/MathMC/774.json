@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "东方"
+            },
+            {
+                "bullet": "B",
+                "text": "西方"
+            },
+            {
+                "bullet": "C",
+                "text": "北方"
+            }
+        ],
+        "text": "大树的影子在东方，此时太阳应该在( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "因为大树的影子在东方，所以太阳是从大树的西方照过来的. 故答案选B."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{5}{8}×( \\frac{3}{4}- \\frac{1}{3} )"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{5}{8}×( \\frac{3}{4}+ \\frac{1}{3})"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{8}÷( \\frac{3}{4}- \\frac{1}{3})"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{5}{8}÷( \\frac{3}{4}+ \\frac{1}{3}) E. \\frac{5}{8}×( \\frac{3}{4}- \\frac{1}{3}"
+            }
+        ],
+        "text": "下面四个算式计算结果最大的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "先把A化为 \\frac{5}{8}× \\frac{5}{12};B化为 \\frac{5}{8}× \\frac{13}{12};C化为 \\frac{5}{8}× \\frac{12}{5};D化为 \\frac{5}{8}× \\frac{12}{7};E化为 \\frac{5}{8}× \\frac{12}{13};然后根据一个因数相同，另一个因数大的，积就大，解答即可."
+        ]
+    }
+}

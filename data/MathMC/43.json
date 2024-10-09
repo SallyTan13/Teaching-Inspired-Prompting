@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "25÷12.5"
+            },
+            {
+                "bullet": "B",
+                "text": "25÷1.25"
+            },
+            {
+                "bullet": "C",
+                "text": "25÷0.125"
+            }
+        ],
+        "text": "商最大的算式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "被除数一定时，除数越小，则商越大，据此判断出商最大的算式是哪个即可."
+        ]
+    }
+}

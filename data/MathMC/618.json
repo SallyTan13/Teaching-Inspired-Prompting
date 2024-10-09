@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "80厘米"
+            },
+            {
+                "bullet": "B",
+                "text": "20厘米"
+            },
+            {
+                "bullet": "C",
+                "text": "10厘米"
+            }
+        ],
+        "text": "一个正方形和一个长方形的周长相等，已知长方形的周长是80厘米，正方形的边长是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据正方形特征解答."
+        ]
+    }
+}

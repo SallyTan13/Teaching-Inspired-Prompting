@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "54+35+46=100+35"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "分别计算出左右两边的算式的结果，再比较即可."
+        ]
+    }
+}

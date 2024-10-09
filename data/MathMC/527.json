@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "加法结合律"
+            },
+            {
+                "bullet": "B",
+                "text": "乘法交换律"
+            },
+            {
+                "bullet": "C",
+                "text": "乘法分配律"
+            }
+        ],
+        "text": "87×\\frac{3}{86}=86×\\frac{3}{86}+\\frac{3}{86}，这是运用了( )运算律. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "87×\\frac{3}{86}， =(86+1)×\\frac{3}{86}， =86×\\frac{3}{86}+\\frac{3}{86}; 运用了乘法分配律; 故选:C."
+        ]
+    }
+}

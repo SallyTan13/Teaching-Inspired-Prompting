@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "5个5相加是多少，算式是5+5=10"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "求5个5相加是多少，用5×5，然后再进一步解答."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{2}"
+            },
+            {
+                "bullet": "B",
+                "text": "2倍"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{3}"
+            },
+            {
+                "bullet": "D",
+                "text": "3倍"
+            }
+        ],
+        "text": "等底等高的三角形的面积是平行四边形面积的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "据‘平行四边形的面积=底×高和三角形的面积=底×高÷2‘进行推导，得出结论."
+        ]
+    }
+}

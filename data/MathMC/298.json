@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a>b"
+            },
+            {
+                "bullet": "B",
+                "text": "a=b"
+            },
+            {
+                "bullet": "C",
+                "text": "a<b"
+            }
+        ],
+        "text": "已知a≠b且ab≠0，如果a÷ \\frac{1}{2}=b÷ \\frac{1}{3}，则( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "在除法算式中，在商一定的情况下，除数越小，被除数就越小;除数越大，被除数就越大.据此判断即可."
+        ]
+    }
+}

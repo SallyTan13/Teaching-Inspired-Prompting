@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "3"
+            },
+            {
+                "bullet": "B",
+                "text": "4"
+            },
+            {
+                "bullet": "C",
+                "text": "5"
+            },
+            {
+                "bullet": "D",
+                "text": "6"
+            }
+        ],
+        "text": "要使29□ 680≈ 30万，□ 里有( )种填法. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "四舍五入.要使它约等于30万，方框里的数字就应该大于或等于5，可以填的数字有5、6、7、8、9五种填法."
+        ]
+    }
+}

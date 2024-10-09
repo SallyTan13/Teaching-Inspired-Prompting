@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "35×20+35×4"
+            },
+            {
+                "bullet": "B",
+                "text": "35×20×4"
+            },
+            {
+                "bullet": "C",
+                "text": "35×4×6"
+            },
+            {
+                "bullet": "D",
+                "text": "40×24-5×24"
+            }
+        ],
+        "text": "与‘35×24‘的计算结果不相等的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据题意，逐步分析每个选项，然后再进一步解答即可."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "余数都不大于商"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据在有余数的除法中，余数总比除数小，由此判断即可."
+        ]
+    }
+}

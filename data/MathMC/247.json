@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "b一定大于a"
+            },
+            {
+                "bullet": "B",
+                "text": "b可能大于a"
+            },
+            {
+                "bullet": "C",
+                "text": "b一定小于a"
+            }
+        ],
+        "text": "a÷0.99=b(b≠0)，那么( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据式子的特点可以发现，除数是0.99，小于1，又因为b≠0，所以b大于a，据此即可做出选择."
+        ]
+    }
+}

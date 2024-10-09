@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{1}{3}+ \\frac{2}{3}× \\frac{4}{5}=( \\frac{1}{3}+ \\frac{2}{3})× \\frac{4}{5}=1× \\frac{4}{5}= \\frac{4}{5}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "按照先算乘法，再算加法的顺序，求出题干中算式的值，最后与 \\frac{4}{5}比较即可解答."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "直线"
+            },
+            {
+                "bullet": "B",
+                "text": "射线"
+            },
+            {
+                "bullet": "C",
+                "text": "线段"
+            }
+        ],
+        "text": "从一点引出两条( )所组成的图形叫做角. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据角的意义:由一点引出两条射线所组成的图形叫做角.直接进行选择即可."
+        ]
+    }
+}

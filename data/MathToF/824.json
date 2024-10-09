@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "一个数的最小倍数就是它本身"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据题意，对各选项进行依次分析、进而得出结论."
+        ]
+    }
+}

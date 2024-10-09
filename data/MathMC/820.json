@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "7毫米"
+            },
+            {
+                "bullet": "B",
+                "text": "7厘米"
+            },
+            {
+                "bullet": "C",
+                "text": "7分米"
+            },
+            {
+                "bullet": "D",
+                "text": "7米"
+            }
+        ],
+        "text": "10本数学课本叠放在一起的厚度接近( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "由一个单位数量的大小可得."
+        ]
+    }
+}

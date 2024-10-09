@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "4个小正方体摆放在一起，露在外面的面有14个"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据题意，举出反例，由此即可得出结论."
+        ]
+    }
+}

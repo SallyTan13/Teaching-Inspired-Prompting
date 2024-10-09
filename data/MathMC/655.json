@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "16"
+            },
+            {
+                "bullet": "B",
+                "text": "17"
+            },
+            {
+                "bullet": "C",
+                "text": "40"
+            }
+        ],
+        "text": "下面的数，因数个数最少的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "首先分别判断出每个数的因数的个数是多少，然后比较大小，判断出因数个数最少的数是多少即可."
+        ]
+    }
+}

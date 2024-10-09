@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "分米"
+            },
+            {
+                "bullet": "B",
+                "text": "厘米"
+            },
+            {
+                "bullet": "C",
+                "text": "米"
+            }
+        ],
+        "text": "教室门高约2( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "门应该比人的个子要高，所以填米合适，选C。考察长度及长度的常用单位。"
+        ]
+    }
+}

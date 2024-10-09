@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "25%"
+            },
+            {
+                "bullet": "B",
+                "text": "20%"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{5}"
+            }
+        ],
+        "text": "80克水里加20克糖，这时糖水中含糖率( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先求出糖水的总质量，然后用糖的质量除以糖水的总质量乘上100%即可求解."
+        ]
+    }
+}

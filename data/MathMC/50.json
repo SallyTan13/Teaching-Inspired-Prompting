@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{2}m-P"
+            },
+            {
+                "bullet": "B",
+                "text": "m÷\\frac{1}{2}+P"
+            },
+            {
+                "bullet": "C",
+                "text": "(m-P)÷\\frac{1}{2}"
+            },
+            {
+                "bullet": "D",
+                "text": "(m+P)÷\\frac{1}{2}"
+            }
+        ],
+        "text": "m比一个数的\\frac{1}{2}少了P，则这个数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "根据题意知道:m=一个数×\\frac{1}{2}-P，由此先求出一个数的\\frac{1}{2}，再求出一个数. 试题解析:(m+p)÷\\frac{1}{2}; 故选:D."
+        ]
+    }
+}

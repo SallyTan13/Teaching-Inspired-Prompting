@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "20× \\frac{2}{5}÷ \\frac{3}{4}"
+            },
+            {
+                "bullet": "B",
+                "text": "20÷ \\frac{2}{5}× \\frac{3}{4}"
+            },
+            {
+                "bullet": "C",
+                "text": "20÷ \\frac{2}{5}÷ \\frac{3}{4}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{2}{5}÷ 20× \\frac{3}{4}"
+            }
+        ],
+        "text": "一个数的\\frac{2}{5}是20，这个数的\\frac{3}{4}是多少?下面正确的列式是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "20÷ \\frac{2}{5}× \\frac{3}{4} =50× \\frac{3}{4} =\\frac{75}{2} 答:这个数的\\frac{3}{4}是\\frac{75}{2}. 故选:B."
+        ]
+    }
+}

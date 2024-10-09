@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": ">"
+            },
+            {
+                "bullet": "B",
+                "text": "="
+            },
+            {
+                "bullet": "C",
+                "text": "<"
+            }
+        ],
+        "text": "如果 \\frac{1}{a}> \\frac{1}{b}，那么a( )b. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "分数的意义为:将单位‘1‘平均分成若干份，表示这样一份或几份的数为分数.由此可知，分子相同，分母越小，则分数值越大.据此判断."
+        ]
+    }
+}

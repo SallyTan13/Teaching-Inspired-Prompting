@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{3}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{1}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{8}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{5}{24}"
+            }
+        ],
+        "text": "加工一批零件，小李3小时完成了任务的\\frac{1}{8}，照这样计算，5小时可以完成( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "\\frac{1}{8}÷3×5， =\\frac{1}{24}×5， =\\frac{5}{24}. 答:5小时可以完成\\frac{5}{24}. 故选:D."
+        ]
+    }
+}

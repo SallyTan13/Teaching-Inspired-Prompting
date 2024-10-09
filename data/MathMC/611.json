@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "6"
+            },
+            {
+                "bullet": "B",
+                "text": "7"
+            },
+            {
+                "bullet": "C",
+                "text": "8"
+            }
+        ],
+        "text": "从25数到31，共数了 ( )个数。"
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据一个一个数的方法解答，25、26、27、28、29、30、31，一共数了7个数。 故答案选:B。"
+        ]
+    }
+}

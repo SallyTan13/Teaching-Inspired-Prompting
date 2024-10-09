@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "百位"
+            },
+            {
+                "bullet": "B",
+                "text": "千位"
+            },
+            {
+                "bullet": "C",
+                "text": "万位"
+            }
+        ],
+        "text": "36×28的积的最高位是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据乘法的计算法则求出36×28的积，看它的最高位是什么位."
+        ]
+    }
+}

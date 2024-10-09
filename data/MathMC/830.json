@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a/b"
+            },
+            {
+                "bullet": "B",
+                "text": "a*b"
+            },
+            {
+                "bullet": "C",
+                "text": "a-b"
+            },
+            {
+                "bullet": "D",
+                "text": "a+b"
+            }
+        ],
+        "text": "已知a是一个真分数，b是一个假分数，在下列算式中答案一定大于1的算式是()"
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "因为假分数一定大于1，所以a+b一定大于1，a-b和a*b和a/b都可能小于1"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "因为2^{2}=2×2，所以a^{2}=a×2。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "一个数的平方等于这个数乘这个数，所以a^{2}=a×a"
+        ]
+    }
+}

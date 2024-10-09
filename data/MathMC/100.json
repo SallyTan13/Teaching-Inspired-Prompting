@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{7}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{4}{7}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{7}{4}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{4}{9}"
+            }
+        ],
+        "text": "在计算乘法时，不慎将乘数63写成36，那么计算结果是正确答案的( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "36÷63=\\frac{4}{7}"
+        ]
+    }
+}

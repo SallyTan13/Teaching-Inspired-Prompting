@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "小华"
+            },
+            {
+                "bullet": "B",
+                "text": "小明"
+            },
+            {
+                "bullet": "C",
+                "text": "无法确定"
+            }
+        ],
+        "text": "在50米短跑比赛中，小华用了\\frac{1}{3}分钟，小明用了\\frac{1}{4}分钟， ( )跑得快。"
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "\\frac{1}{3}>\\frac{1}{4}，小明时间短，跑得快。 故选B。"
+        ]
+    }
+}

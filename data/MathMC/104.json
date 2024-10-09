@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "abc"
+            },
+            {
+                "bullet": "B",
+                "text": "a+b+c"
+            },
+            {
+                "bullet": "C",
+                "text": "100a+10b+c"
+            },
+            {
+                "bullet": "D",
+                "text": "100c+10b+a"
+            }
+        ],
+        "text": "一个三位数，个位上是a，十位上是b，百位上是c，则这个三位数可以表示为( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "百位上的c表示c个百，十位上的b表示b个十，个位上的a表示a个一，这个三位数是(100c+10b+a)."
+        ]
+    }
+}

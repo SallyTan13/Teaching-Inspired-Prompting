@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a>b"
+            },
+            {
+                "bullet": "B",
+                "text": "a<b"
+            },
+            {
+                "bullet": "C",
+                "text": "a=b"
+            }
+        ],
+        "text": "a×=b÷(a、b都大于0)则( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "依据分数除法的计算方法可把题干中的等式可化为:a×=b×，由于两个算式的乘积相等，根据谁乘的数大，谁就小(0除外)即可解答."
+        ]
+    }
+}

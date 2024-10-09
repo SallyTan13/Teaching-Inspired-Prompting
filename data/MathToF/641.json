@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "因为 \\frac{5}{4}×0.8=1，所以 \\frac{5}{4}和0.8互为倒数"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据倒数的意义，乘积是1的两个数互为倒数.据此判断."
+        ]
+    }
+}

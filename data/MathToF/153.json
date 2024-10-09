@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "甲数是乙数的 \\frac{2}{3}，乙数就是甲数的 \\frac{3}{2}"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "先把乙数看成单位‘1‘，甲数就是 \\frac{2}{3}，然后再用乙数1除以甲数即可."
+        ]
+    }
+}

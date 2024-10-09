@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "8507是由4个千，5个十和7个一组成的"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据每个数位表示的计数单位即可解答."
+        ]
+    }
+}

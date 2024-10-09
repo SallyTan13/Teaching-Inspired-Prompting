@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "计算器上的ON/C是开关及清屏键"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "在计算器上ON/C键是开关及清屏键;CE键是清除键.据此解答即可."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "平移现象"
+            },
+            {
+                "bullet": "B",
+                "text": "旋转现象"
+            },
+            {
+                "bullet": "C",
+                "text": "以上都不属于"
+            }
+        ],
+        "text": "打开教室门属于( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "打开教室门属于旋转现象. 故选B."
+        ]
+    }
+}

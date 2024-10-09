@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "90×0的积大"
+            },
+            {
+                "bullet": "B",
+                "text": "90+0的和大"
+            },
+            {
+                "bullet": "C",
+                "text": "一样大"
+            }
+        ],
+        "text": "90×0和90+0比较，正确的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据‘0乘任何数都得0，任何数加0都得原数‘解答即可."
+        ]
+    }
+}

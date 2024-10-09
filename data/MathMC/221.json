@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "4"
+            },
+            {
+                "bullet": "B",
+                "text": "0"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            }
+        ],
+        "text": "508×6的积的十位上的数是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "根据整数乘法的计算方法，求出508×6的积，然后再进一步解答."
+        ]
+    }
+}

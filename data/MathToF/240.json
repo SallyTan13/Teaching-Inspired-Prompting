@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "如果 \\frac{n}{m}是真分数，则 \\frac{m}{n}一定是假分数(m和n都不为0)"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "真分数是指分子小于分母的分数，但它们的倒数都是分子大于分母的分数即假分数."
+        ]
+    }
+}

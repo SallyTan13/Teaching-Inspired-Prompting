@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "钝角"
+            },
+            {
+                "bullet": "B",
+                "text": "直角"
+            },
+            {
+                "bullet": "C",
+                "text": "锐角"
+            },
+            {
+                "bullet": "D",
+                "text": "平角"
+            }
+        ],
+        "text": "一个钝角分成两个角，一定有一个( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "因为90°<钝角<180°，一个钝角分成两个角，最小角要大于0°，最大角小于180°，分情况考虑解答."
+        ]
+    }
+}

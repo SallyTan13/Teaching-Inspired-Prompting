@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{9}×\\frac{1}{5}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{2}{9}÷\\frac{1}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{5}×\\frac{2}{9}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{1}{5}÷\\frac{2}{9}"
+            }
+        ],
+        "text": "一个数的\\frac{2}{9}是\\frac{1}{5}，这个数是多少?正确算式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "\\frac{1}{5}÷\\frac{2}{9}=\\frac{9}{10}; 故选D."
+        ]
+    }
+}

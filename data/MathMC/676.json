@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1/4"
+            },
+            {
+                "bullet": "B",
+                "text": "2/4"
+            },
+            {
+                "bullet": "C",
+                "text": "无法确定"
+            }
+        ],
+        "text": "一个苹果平均分成4份，小明吃了2块，小明吃了这个苹果的   . "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "掌握分数的意义."
+        ]
+    }
+}

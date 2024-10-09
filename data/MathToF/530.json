@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "整数的运算定律在小数运算中同样适用。"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "整数的运算定律对于小数、分数运算同样适用."
+        ]
+    }
+}

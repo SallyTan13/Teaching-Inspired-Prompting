@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "百万位和十万位"
+            },
+            {
+                "bullet": "B",
+                "text": "亿位和百万位"
+            },
+            {
+                "bullet": "C",
+                "text": "亿位和十亿位"
+            }
+        ],
+        "text": "与千万位相邻的两个数位是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "与千万位相邻的两个数位是百万位和亿位; 故选:B."
+        ]
+    }
+}

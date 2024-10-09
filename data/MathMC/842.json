@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{5}× \\frac{13}{14}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{6}{7}× \\frac{4}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{2}{5}× 3"
+            }
+        ],
+        "text": "下面算式中，两数之积在\\frac{2}{5}和\\frac{6}{7}之间的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "因为\\frac{2}{5}\\frac{6}{5}，而\\frac{6}{5}>\\frac{6}{7}，所以不在\\frac{2}{5}和\\frac{6}{7}之间，故C错误. 故选B."
+        ]
+    }
+}

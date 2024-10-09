@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "正方形"
+            },
+            {
+                "bullet": "B",
+                "text": "平行四边形"
+            },
+            {
+                "bullet": "C",
+                "text": "三角形"
+            }
+        ],
+        "text": "在下面图形中，不容易变形的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据三角形的特性:三角形具有稳定性进行解答即可."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "6"
+            },
+            {
+                "bullet": "B",
+                "text": "5"
+            },
+            {
+                "bullet": "C",
+                "text": "4"
+            }
+        ],
+        "text": "89□870≈90万，□里最小能填( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "89□870≈90万，显然是用‘五入‘法求出的近似数，所以空格里最小可以填5."
+        ]
+    }
+}

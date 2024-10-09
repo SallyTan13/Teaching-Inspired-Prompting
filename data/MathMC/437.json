@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "整数"
+            },
+            {
+                "bullet": "B",
+                "text": "分数"
+            },
+            {
+                "bullet": "C",
+                "text": "相同的数"
+            }
+        ],
+        "text": "分数的分子和分母都乘以或除以( )(0除外)，分数的大小不变. "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据分数的基本性质的内容，直接进行选择得解."
+        ]
+    }
+}

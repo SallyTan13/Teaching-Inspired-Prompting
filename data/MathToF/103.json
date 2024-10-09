@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{12}{16}的分子增加6，要使分数大小不变，分母也应增加6"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据分数性质的内容，直接进行填空解答."
+        ]
+    }
+}

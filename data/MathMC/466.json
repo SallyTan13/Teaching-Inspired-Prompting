@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{5}是倒数"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{5}{3}是倒数"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{3}和 \\frac{3}{5}互为倒数"
+            }
+        ],
+        "text": "因为 \\frac{5}{3}× \\frac{3}{5}=1，所以( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据倒数的意义，乘积是1的两个数互为倒数.据此解答即可."
+        ]
+    }
+}

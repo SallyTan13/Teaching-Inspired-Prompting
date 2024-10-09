@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "10a+b"
+            },
+            {
+                "bullet": "B",
+                "text": "100a+b"
+            },
+            {
+                "bullet": "C",
+                "text": "100b+a"
+            }
+        ],
+        "text": "一个三位数，百位的数字是a，十位的数字是0，个位的数字是b，这个三位数用含有字母的式子表示是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "百位上是a就是有a个百即100a，十位是0，个位是b就是有b个一也就是b，这个数就是100a+b."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a× 5/9"
+            },
+            {
+                "bullet": "B",
+                "text": "5/9 ÷a"
+            },
+            {
+                "bullet": "C",
+                "text": "a÷ 5/9"
+            },
+            {
+                "bullet": "D",
+                "text": "5/9 ÷ 5/9"
+            }
+        ],
+        "text": "a是一个不为0的自然数，下列各式中，得数最大的是   "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "可将四个选项中的数用分数乘法的形式表示出来，然后再比较大小。"
+        ]
+    }
+}

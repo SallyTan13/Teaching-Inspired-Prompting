@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "任何数"
+            },
+            {
+                "bullet": "B",
+                "text": "除数"
+            },
+            {
+                "bullet": "C",
+                "text": "除数的倒数"
+            }
+        ],
+        "text": "1除以任何数(零除外)商等于( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据分数除法的计算法则解答即可，除以一个数(0除外)等于乘除数的倒数."
+        ]
+    }
+}

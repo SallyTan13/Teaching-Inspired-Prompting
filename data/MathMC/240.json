@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2"
+            },
+            {
+                "bullet": "B",
+                "text": "6"
+            },
+            {
+                "bullet": "C",
+                "text": "5"
+            }
+        ],
+        "text": "一个数除以5，如果有余数，那么余数可能是   . "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "本题考余数的可能值"
+        ]
+    }
+}

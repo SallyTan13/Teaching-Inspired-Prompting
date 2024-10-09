@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{b-a}{ab}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{b-a}{a}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{a-b}{b}"
+            },
+            {
+                "bullet": "D",
+                "text": "0"
+            }
+        ],
+        "text": "\\frac{1}{a}-\\frac{1}{b}=( )(a、b均不为0，且公因数只有1) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "\\frac{1}{a}-\\frac{1}{b}=\\frac{b-a}{ab}. 故选A."
+        ]
+    }
+}

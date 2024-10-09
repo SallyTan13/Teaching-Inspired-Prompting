@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "条形统计图"
+            },
+            {
+                "bullet": "B",
+                "text": "折线统计图"
+            },
+            {
+                "bullet": "C",
+                "text": "扇形统计图"
+            }
+        ],
+        "text": "要统计深圳市今年3月份的气温变化情况，选用( )比较合适. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "气温变化，则有升高降低情况，折线统计图比较合适. 故选B."
+        ]
+    }
+}

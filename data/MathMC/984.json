@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "19×29"
+            },
+            {
+                "bullet": "B",
+                "text": "31×22"
+            },
+            {
+                "bullet": "C",
+                "text": "25×22"
+            }
+        ],
+        "text": "得数比600大的算式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据乘法的计算法则把每个题计算出积，然后按整数比较大小的方法和600比较即可选择."
+        ]
+    }
+}

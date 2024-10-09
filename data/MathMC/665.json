@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{a+b}{16}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{ab}{8}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{a+b}{8}"
+            }
+        ],
+        "text": "\\frac{a}{8}+ \\frac{b}{8}的结果是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据同分母分数加法的计算方法:同分母分数相加，分母不变，分子相加，由此进行解答即可."
+        ]
+    }
+}

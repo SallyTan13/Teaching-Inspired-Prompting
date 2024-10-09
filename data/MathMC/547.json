@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "6"
+            },
+            {
+                "bullet": "B",
+                "text": "4"
+            },
+            {
+                "bullet": "C",
+                "text": "3"
+            }
+        ],
+        "text": "\\frac{2}{3}= \\frac{2+4}{3+()}. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "观察算式可以发现:分子加上4，由2变成了6，相当于分子扩大了3倍，要使分数的值不变，分母也应该扩大3倍，从而问题得解."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{1}{8}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{8}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{5}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{5}{8}"
+            }
+        ],
+        "text": "把一块面积是8平方米的花坛平均分为5份，每份的面积是( )平方米. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据题意，把整块地的面积看作单位‘1‘，则每份占整块地的多少平方米，用8除以分的份数即可计算."
+        ]
+    }
+}

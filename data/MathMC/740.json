@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "185÷4"
+            },
+            {
+                "bullet": "B",
+                "text": "113÷3"
+            },
+            {
+                "bullet": "C",
+                "text": "279÷6"
+            },
+            {
+                "bullet": "D",
+                "text": "87÷2"
+            }
+        ],
+        "text": "下列算式，结果小于40的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "先计算出结果，然后与40比较即可."
+        ]
+    }
+}

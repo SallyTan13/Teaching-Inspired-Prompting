@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "7×0=7+0"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "0乘任何不是0的数都得0，0加任何数仍得任何数，据此进行解答即可."
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "20-5x=10"
+            },
+            {
+                "bullet": "B",
+                "text": "(20+10)÷5"
+            },
+            {
+                "bullet": "C",
+                "text": "5x-10=20"
+            }
+        ],
+        "text": "20比x的5倍少10，列方程是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据题意，x的5倍是5x，20比x的5倍少10，即5x-20=10，然后再根据等式的性质进行解答."
+        ]
+    }
+}

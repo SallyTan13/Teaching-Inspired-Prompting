@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{10}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{10}{3}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{1}{10}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{1}{3}"
+            }
+        ],
+        "text": "10米长的绳子，平均分成3份，每份占全长的( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "把绳子的总长度看成单位‘1‘，平均分成3份，每份就是全长的 \\frac{1}{3}，据此即可进行选择."
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "南偏东60°"
+            },
+            {
+                "bullet": "B",
+                "text": "北偏西30°"
+            },
+            {
+                "bullet": "C",
+                "text": "北偏西60°"
+            },
+            {
+                "bullet": "D",
+                "text": "无法确定"
+            }
+        ],
+        "text": "如果从A点看，B在A的南偏东30°方向，那么从B点看A，则A在B的( )方向. "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据位置的相对性可知，它们的方向相反，角度相同，距离相等，据此解答."
+        ]
+    }
+}

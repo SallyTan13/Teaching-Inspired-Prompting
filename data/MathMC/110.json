@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "甲车快"
+            },
+            {
+                "bullet": "B",
+                "text": "乙车快"
+            },
+            {
+                "bullet": "C",
+                "text": "一样快"
+            }
+        ],
+        "text": "从A地到B地，甲车4时行了全程的 1/5 ，乙车5时行了全程的 1/4 ，甲、乙两车的速度相比，()。 "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "分别求出甲车和乙车的速度，然后比较."
+        ]
+    }
+}

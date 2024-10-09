@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "605÷ 5商的十位上是0。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "605÷5=121，商的十位上是2，并不是0。故题干说法错误。"
+        ]
+    }
+}

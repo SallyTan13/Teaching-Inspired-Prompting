@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "3个"
+            },
+            {
+                "bullet": "B",
+                "text": "8个"
+            },
+            {
+                "bullet": "C",
+                "text": "6个"
+            }
+        ],
+        "text": "已知m=3×5×7，那么m的因数有( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "M的因数包括1和它的质因数，以及质因数相乘的积."
+        ]
+    }
+}

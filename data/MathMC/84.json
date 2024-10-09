@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a的 \\frac{2}{3}是多少?"
+            },
+            {
+                "bullet": "B",
+                "text": "一个数的 \\frac{2}{3}是a，求这个数"
+            },
+            {
+                "bullet": "C",
+                "text": "把a平均分成3份，求2份 是多少?"
+            }
+        ],
+        "text": "a÷ \\frac{2}{3}是求( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据分数乘除法的意义，对选择逐个分析，列出算式，找出算式是a÷ \\frac{2}{3}即可."
+        ]
+    }
+}

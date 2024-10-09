@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "钟表的指针运动"
+            },
+            {
+                "bullet": "B",
+                "text": "电梯的升降运动"
+            },
+            {
+                "bullet": "C",
+                "text": "风车的转动"
+            }
+        ],
+        "text": "下列现象中，属于平移的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "根据平移的性质，对选项进行一一分析，排除错误答案即可得到正确答案."
+        ]
+    }
+}

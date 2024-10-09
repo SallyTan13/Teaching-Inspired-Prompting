@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "一个书包重1吨"
+            },
+            {
+                "bullet": "B",
+                "text": "一块橡皮重4千克"
+            },
+            {
+                "bullet": "C",
+                "text": "一头大河马重3克"
+            },
+            {
+                "bullet": "D",
+                "text": "一辆大货车的载重质量是2吨"
+            }
+        ],
+        "text": "下面的说法中，正确的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "质量单位有克，千克，吨等，一辆大货车的载重质量约是2吨. 故选D."
+        ]
+    }
+}

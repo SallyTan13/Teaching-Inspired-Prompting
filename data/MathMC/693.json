@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "减少了"
+            },
+            {
+                "bullet": "B",
+                "text": "不变"
+            },
+            {
+                "bullet": "C",
+                "text": "增加了"
+            }
+        ],
+        "text": "一个边长为4分米的正方形，如果在四个角各剪去一个边长是4厘米的正方形，那么它的周长与原来相比是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "由题可知本题考查周长计算."
+        ]
+    }
+}

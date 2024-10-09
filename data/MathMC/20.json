@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{b}{a}+\\frac{d}{c}=\\frac{b+d}{a+c}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{b}{a}×\\frac{d}{c}=\\frac{b×d}{a×c}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{b}{a}÷\\frac{d}{c}=\\frac{b÷d}{a÷c}"
+            },
+            {
+                "bullet": "D",
+                "text": "\\frac{b}{a}÷\\frac{d}{c}=\\frac{b}{a}×\\frac{c}{d}"
+            }
+        ],
+        "text": "我们知道‘甲数除以乙数等于甲数乘以乙数的倒数‘.如果记甲数为\\frac{b}{a}，乙数为\\frac{d}{c}，那么该法则可以用符号表示为( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "\\frac{d}{c}的倒数是\\frac{c}{d};\\frac{b}{a}÷\\frac{d}{c}=\\frac{b}{a}×\\frac{c}{d}; 故选:D."
+        ]
+    }
+}

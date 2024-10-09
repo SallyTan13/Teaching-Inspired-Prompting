@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{3}{8}+ \\frac{5}{8}× \\frac{3}{4}=1× \\frac{3}{4}= \\frac{3}{4}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "按照先算乘法，再算加法的顺序，求出题干中算式的值，再与 \\frac{3}{4}比较即可解答."
+        ]
+    }
+}

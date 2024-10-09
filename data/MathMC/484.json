@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{5}÷ \\frac{9}{100}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{9}{100}÷ \\frac{3}{5}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{3}{5}× \\frac{9}{100}"
+            },
+            {
+                "bullet": "D",
+                "text": "1 ÷ \\frac{9}{100}"
+            }
+        ],
+        "text": "\\frac{3}{5}吨大豆可以榨油 \\frac{9}{100}吨，1吨大豆可榨油多少吨?正确的列式是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "\\frac{3}{5}吨大豆可榨油\\frac{9}{100}吨，10吨大豆可炸(\\frac{9}{100}÷ \\frac{3}{5})吨."
+        ]
+    }
+}

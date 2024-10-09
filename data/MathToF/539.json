@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{1}{a}< \\frac{3}{a}(a≠0)"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "依据同分母分数大小比较方法:分母相同，分子大的分数就大即可解答."
+        ]
+    }
+}

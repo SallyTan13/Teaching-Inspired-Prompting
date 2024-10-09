@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{2}{3}+\\frac{2}{3}+\\frac{2}{3}+\\frac{2}{3}"
+            },
+            {
+                "bullet": "B",
+                "text": "4+\\frac{2}{3}"
+            },
+            {
+                "bullet": "C",
+                "text": "4-\\frac{2}{3}"
+            },
+            {
+                "bullet": "D",
+                "text": "4×\\frac{2}{3}"
+            }
+        ],
+        "text": "4吨的\\frac{2}{3}是多少?列式是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "求一个数的几分之几是多少，用乘法计算即可得解. 试题解析:4吨的\\frac{2}{3}列式是:4×\\frac{2}{3}. 故选:D."
+        ]
+    }
+}

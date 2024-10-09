@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "M=0"
+            },
+            {
+                "bullet": "B",
+                "text": "N=0"
+            },
+            {
+                "bullet": "C",
+                "text": "M，N中至少有一个是0"
+            }
+        ],
+        "text": "如果M×N=0，那么( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "由于0表示没有，0乘任何数都等于0，则如果M×N=0，那么M，N中至少有一个是0."
+        ]
+    }
+}

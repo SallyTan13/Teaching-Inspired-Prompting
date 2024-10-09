@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "38×35"
+            },
+            {
+                "bullet": "B",
+                "text": "35÷38"
+            },
+            {
+                "bullet": "C",
+                "text": "38÷35"
+            },
+            {
+                "bullet": "D",
+                "text": "35×38"
+            }
+        ],
+        "text": "一个数的38倍是35，求这个数的算式是.( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "B"
+        ],
+        "analyses": [
+            "一个数的38倍是35，那么用35除以倍数38，即可求出这个数."
+        ]
+    }
+}

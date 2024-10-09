@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "10"
+            },
+            {
+                "bullet": "B",
+                "text": "100"
+            },
+            {
+                "bullet": "C",
+                "text": "1000"
+            }
+        ],
+        "text": "克、千克、吨每相邻两个单位之间的进率都是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "克、千克、吨是质量单位，每相邻两个单位之间的进率是1000."
+        ]
+    }
+}

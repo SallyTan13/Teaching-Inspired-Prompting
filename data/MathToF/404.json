@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "若a的 \\frac{2}{3}等于b，那么b÷ \\frac{2}{3}=a"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "因为若a的 \\frac{2}{3}等于b，所以a× \\frac{2}{3}=b，然后根据乘法各部分之间的关系解答即可."
+        ]
+    }
+}

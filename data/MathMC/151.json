@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "2、3、3"
+            },
+            {
+                "bullet": "B",
+                "text": "2、3、4"
+            },
+            {
+                "bullet": "C",
+                "text": "3、3、3"
+            },
+            {
+                "bullet": "D",
+                "text": "3、3、6"
+            }
+        ],
+        "text": "下面的几组线段中(单位:厘米)，不能围成三角形的一组是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "任意两边之和大于第3边，两边之差小于第三边."
+        ]
+    }
+}

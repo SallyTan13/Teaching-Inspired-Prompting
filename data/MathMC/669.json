@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "a+0=a"
+            },
+            {
+                "bullet": "B",
+                "text": "a-0=a"
+            },
+            {
+                "bullet": "C",
+                "text": "a×0=a"
+            },
+            {
+                "bullet": "D",
+                "text": "a÷0=0"
+            }
+        ],
+        "text": "关于0的运算，以下说法不成立的是( )。   "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            ""
+        ]
+    }
+}

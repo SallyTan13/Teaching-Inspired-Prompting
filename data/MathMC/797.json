@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "8× \\frac{1}{8}"
+            },
+            {
+                "bullet": "B",
+                "text": "8+ \\frac{1}{8}"
+            },
+            {
+                "bullet": "C",
+                "text": "8+8× \\frac{1}{8}"
+            }
+        ],
+        "text": "8千克的 \\frac{1}{8}是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "把8千克看作单位‘1‘，根据一个数乘分数的意义，用乘法解答."
+        ]
+    }
+}

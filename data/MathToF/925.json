@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "把一个苹果分成5份，每份是这个苹果的 \\frac{1}{3}"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "把一个苹果分成5份，只有当平均分时，每份才是这个苹果的 \\frac{1}{5}."
+        ]
+    }
+}

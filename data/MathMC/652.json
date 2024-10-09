@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "\\frac{3}{2}÷ \\frac{5}{24}"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{3}{2}× \\frac{5}{24}"
+            },
+            {
+                "bullet": "C",
+                "text": "\\frac{5}{24}÷ \\frac{3}{2}"
+            }
+        ],
+        "text": "一辆汽车行\\frac{3}{2}千米用汽油\\frac{5}{24}升，1升汽油可行多少千米?列式正确的是( ). "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "~~~~\\frac{3}{2}÷ \\frac{5}{24} =\\frac{3}{2}× \\frac{24}{5} =7.2(千米)， 答:1升汽油可行7.2千米."
+        ]
+    }
+}

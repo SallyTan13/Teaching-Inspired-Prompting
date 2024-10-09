@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "整数"
+            },
+            {
+                "bullet": "B",
+                "text": "自然数"
+            },
+            {
+                "bullet": "C",
+                "text": "质数"
+            },
+            {
+                "bullet": "D",
+                "text": "互质"
+            }
+        ],
+        "text": "一个最简整数比的前项和后项一定是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "D"
+        ],
+        "analyses": [
+            "复习最简分数，再判定"
+        ]
+    }
+}

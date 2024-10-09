@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "17"
+            },
+            {
+                "bullet": "B",
+                "text": "19"
+            },
+            {
+                "bullet": "C",
+                "text": "72"
+            }
+        ],
+        "text": "有两行果树，一行有8棵，另一行有9棵，一共有( )棵. "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "一共有8+9=17(棵). 故选A."
+        ]
+    }
+}

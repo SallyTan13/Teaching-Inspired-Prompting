@@ -1,0 +1,28 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "1米"
+            },
+            {
+                "bullet": "B",
+                "text": "\\frac{9}{10}米"
+            },
+            {
+                "bullet": "C",
+                "text": "1"
+            }
+        ],
+        "text": "一根铁丝用去\\frac{3}{10}米，还剩\\frac{7}{10}米，这根铁丝原来长( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "A"
+        ],
+        "analyses": [
+            "\\frac{3}{10}+\\frac{7}{10}=1(米); 答:这根铁丝原来长1米. 故选:A."
+        ]
+    }
+}

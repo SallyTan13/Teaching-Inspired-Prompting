@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "396×7的积大约是2800"
+    },
+    "quest_ref": {
+        "texts": [
+            "True"
+        ],
+        "analyses": [
+            "根据整数估算方法，把数看成最接近它的整十、整百数…"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{4}{9}× \\frac{3}{4}÷ \\frac{4}{9}× \\frac{3}{4}=1"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "按照从左到右顺序，求出算式的值，再与1比较即可解答."
+        ]
+    }
+}

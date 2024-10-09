@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "( \\frac{13}{11}+ \\frac{7}{9})-( \\frac{13}{11}- \\frac{7}{9})=( \\frac{13}{11}- \\frac{13}{11})-( \\frac{7}{9}- \\frac{7}{9})"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "根据分数四则混合运算的顺序，先去括号再进行计算."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "西安大雁塔高六十四米，‘六十四‘写作‘604‘。"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "六十四写作64，所以原说法错误"
+        ]
+    }
+}

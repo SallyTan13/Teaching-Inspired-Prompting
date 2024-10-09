@@ -1,0 +1,14 @@
+{
+    "qtype": "JUDGE",
+    "quest_stem": {
+        "text": "\\frac{2}{8}和 \\frac{1}{4}的大小相等，所以它们的分数单位相同"
+    },
+    "quest_ref": {
+        "texts": [
+            "False"
+        ],
+        "analyses": [
+            "判定一个分数的单位看分母，分母是几，分数单位就是几分之一."
+        ]
+    }
+}

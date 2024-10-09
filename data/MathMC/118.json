@@ -1,0 +1,32 @@
+{
+    "qtype": "CHOICE",
+    "quest_stem": {
+        "options": [
+            {
+                "bullet": "A",
+                "text": "5× \\frac{2}{3}"
+            },
+            {
+                "bullet": "B",
+                "text": "5 ÷ \\frac{2}{3}"
+            },
+            {
+                "bullet": "C",
+                "text": "5 + \\frac{2}{3}"
+            },
+            {
+                "bullet": "D",
+                "text": "5 - \\frac{2}{3}"
+            }
+        ],
+        "text": "下列算式中，与 5 \\frac{2}{3}相等的是( ) "
+    },
+    "quest_ref": {
+        "texts": [
+            "C"
+        ],
+        "analyses": [
+            "根据有理数的乘法、除法、加法、减法法则分别对四个选项进行计算，再与 5 \\frac{2}{3}比较，即可得到正确选项."
+        ]
+    }
+}
